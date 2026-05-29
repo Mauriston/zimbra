@@ -1,0 +1,58 @@
+<div style="font-family: tahoma,new york,times,serif; font-size: 14pt; color: #000000;"><br />
+<div id="3623555f-eed2-48ad-80af-6e6ccd41f893" data-marker="__SIG_PRE__">
+<div style="font-family: 'tahoma' , 'new york' , 'times' , serif; font-size: 14pt; color: #000000;">
+<div id="3623555f-eed2-48ad-80af-6e6ccd41f893">
+<div></div>
+<center style="width: 100%; table-layout: fixed;">
+<div style="max-width: 960px; margin: 0 auto;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 960px; margin: auto; background-color: #ffffff; font-family: 'carlito' , 'calibri' , 'arial' , sans-serif; width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: center; background-color: #050f41; width: 100%;"><img src="https://i.imgur.com/Btu1CAG.png" width="100%" style="width: 100%; max-width: 960px; height: auto; display: block; border: 0;" alt="Cabe&ccedil;alho Hospital Naval de Recife - Junta Regular de Sa&uacute;de" /></td>
+</tr>
+<tr>
+<td style="background-color: #ffffff; padding: 40px 50px 10px; text-align: left; font-family: 'carlito' , 'calibri' , 'arial' , sans-serif; font-size: 18px; line-height: 1.5; color: #333333; width: 100%;">
+<p style="margin: 0 0 25px 0;"><strong>Prezado(a),</strong></p>
+<p style="margin: 0 0 25px 0;">[DIGITE O CONTE&Uacute;DO DO SEU E-MAIL AQUI]</p>
+<div style="height: 55px;"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top: 1px solid #eeeeee; padding-top: 20px;">
+<tbody>
+<tr>
+<td style="font-family: 'carlito' , 'calibri' , 'arial' , sans-serif; color: #333333;">
+<div style="font-size: 15px; margin-bottom: 5px; color: #333333;">Respeitosamente,</div>
+<div style="font-size: 18px; font-weight: bold; color: #050f41; margin: 0;"><span style="font-size: 16pt;">Mauriston Renan Martins Silva</span></div>
+<div style="font-size: 14px; line-height: 1.3; color: #666666; font-weight: normal;"><span style="font-size: 13pt;"><strong style="color: #666666;">Capit&atilde;o-Tenente (Md)</strong></span><br /><span style="font-size: 13pt;">Presidente</span></div>
+<div style="height: 20px;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background-color: #ececec; padding: 15px 20px; border-top: 1px solid #eeeeee; width: 100%;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 98.5872%;">
+<tbody>
+<tr>
+<td width="35%" align="center" valign="middle" style="padding-right: 15px; width: 47.9348%;"><img src="https://i.imgur.com/5JKaEFU.png" width="140" style="width: 309px; max-width: 100%; height: 88px; display: inline-block; border: 0px;" alt="Logo Marinha do Brasil" /></td>
+<td width="1" style="border-left: 1px solid #cccccc; font-size: 1px; line-height: 1px; width: 1.08696%;">&nbsp;</td>
+<td width="65%" align="left" valign="middle" style="padding-left: 20px; font-family: 'carlito' , 'calibri' , 'arial' , sans-serif; font-size: 14px; line-height: 1.6; color: #555555; width: 59.6739%;"><strong style="color: #333;">Hospital Naval de Recife - Junta Regular de Sa&uacute;de</strong><br /><img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="12" height="12" style="vertical-align: middle; margin-right: 5px;" alt="telefone" /> (81) 3036 - 9073 <span style="margin: 0 8px;">/</span> <img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" width="12" height="12" style="vertical-align: middle; margin-right: 5px;" alt="email" /> <a href="mailto:hnre.jrs@marinha.mil.br" style="color: #050f41; text-decoration: none;" rel="noopener nofollow noopener noreferrer" target="_blank">hnre.jrs@marinha.mil.br</a><br /><img src="https://cdn-icons-png.flaticon.com/512/447/447031.png" width="12" height="12" style="vertical-align: middle; margin-right: 5px; margin-top: 2px;" alt="localiza&ccedil;&atilde;o" /> Avenida Cruz Cabug&aacute; 1200, Santo Amaro, Recife/PE</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td height="30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</center></div>
+</div>
+</div>
+</div>
