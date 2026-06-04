@@ -1,0 +1,191 @@
+<div style="font-family: 'carlito', 'calibri', 'arial', sans-serif; font-size: 15px; color: #333333; line-height: 1.6;">
+<div id="3623555f-eed2-48ad-80af-6e6ccd41f893"><center style="width: 100%; table-layout: fixed;">
+<div style="max-width: 960px; margin: 0 auto;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 960px; margin: auto; background-color: #ffffff; font-family: 'carlito', 'calibri', 'arial', sans-serif; width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: center; background-color: #050f41; width: 100%;"><img src="https://i.imgur.com/Btu1CAG.png" width="100%" style="width: 100%; max-width: 960px; height: auto; display: block; border: 0px;" alt="Cabe&ccedil;alho Hospital Naval de Recife - Junta Regular de Sa&uacute;de" /></td>
+</tr>
+<tr>
+<td style="background-color: #ffffff; padding: 40px 50px 30px 50px; text-align: left; font-family: 'carlito', 'calibri', 'arial', sans-serif; font-size: 15px; line-height: 1.6; color: #333333; width: 100%;">
+<p style="margin: 0 0 20px 0; font-size: 18px; color: #333333;"><strong>Prezado(a) Senhor(a),</strong></p>
+<!-- BOX DE DESTAQUE: INFORMAÇÃO COMPROVATIVA DO AGENDAMENTO -->
+<div style="background-color: #f4f6f9; border-left: 4px solid #050f41; padding: 20px; margin-bottom: 30px; border-radius: 4px;">
+<p style="margin: 0 0 10px 0; font-size: 18px; color: #050f41; font-weight: bold; text-transform: uppercase;">📅 Confirma&ccedil;&atilde;o de Agendamento DE INSPE&Ccedil;&Atilde;O DE SA&Uacute;DE</p>
+<ul style="margin: 0; padding-left: 20px; list-style-type: disc; line-height: 1.6;">
+<li style="margin-bottom: 6px;">Inspecionado: <span style="color: #050f41; font-weight: bold;">2SG-RM2-EF 13.0450.24 FUSM&Aacute;TICO ALEXANDRINO TAMANDAR&Eacute;</span></li>
+<li style="margin-bottom: 6px;"><span style="color: #050f41;">Finalidade IS:</span> <span style="color: #050f41; font-weight: bold;">Verifica&ccedil;&atilde;o de Defici&ecirc;ncia Funcional (VDF)</span></li>
+<li style="margin-bottom: 6px;">Data: <span style="padding: 2px 5px; font-weight: bold; color: #050f41;">01JAN/2026</span></li>
+<li style="margin-bottom: 0;">Hora: <span style="color: #050f41;"><strong>07h00</strong></span></li>
+</ul>
+</div>
+<!-- TEXTO EXPLICATIVO DA FINALIDADE -->
+<div style="background-color: #f1f8e9; border-left: 4px solid #2e7d32; padding: 20px; margin-bottom: 35px; border-radius: 4px;">
+<p style="margin: 0; text-align: justify; color: #2e7d32; font-weight: bold; font-size: 15px; line-height: 1.6;">💡 A IS com Finalidade de <span style="color: #050f41;">Verifica&ccedil;&atilde;o de Defici&ecirc;ncia Funcional &eacute; per&iacute;cia inicial,</span> eminentemente cl&iacute;nico-funcional, que visa esclarecer qual o grau de comprometimento de uma enfermidade qualquer sobre a capacidade laborativa do Militar da ativa. J&aacute; a per&iacute;cia que segue a um per&iacute;odo de LTSP tem a finalidade de <span style="color: #050f41;">T&eacute;rmino de Incapacidade</span>, enquanto a per&iacute;cia que segue um per&iacute;odo de Restri&ccedil;&otilde;es, <span style="color: #050f41;">T&eacute;rmino de Restri&ccedil;&otilde;es.</span></p>
+</div>
+<!-- SECÇÃO 1: ORIENTAÇÕES PARA O DIA DA IS -->
+<h3 style="color: #050f41; font-size: 18px; margin: 35px 0 15px; border-bottom: 2px solid #050f41; padding-bottom: 5px; text-transform: uppercase;">1. Orienta&ccedil;&otilde;es para o Dia da inspe&ccedil;&atilde;o de sa&uacute;de</h3>
+<p style="margin: 0 0 15px; font-weight: bold; color: #2e7d32;">Recomendamos ler atentamente todas as orienta&ccedil;&otilde;es para otimizar o tr&acirc;mite pericial:</p>
+<ul style="margin: 0 0 30px; padding-left: 20px; line-height: 1.7; color: #333333;">
+<li style="margin-bottom: 8px; text-align: justify;">Trazer documento de identidade original, al&eacute;m de todos os relat&oacute;rios, atestados e exames que ser&atilde;o descritos posteriormente;</li>
+<li style="margin-bottom: 8px; text-align: justify;">Traga o seu PMI ou Guia Sanit&aacute;ria al&eacute;m do seu Cart&atilde;o de Vacinas;</li>
+<li style="margin-bottom: 8px; text-align: justify;">Militares da ativa dever&atilde;o estar obrigatoriamente fardados;</li>
+<li style="margin-bottom: 8px; text-align: justify;">O atendimento &eacute; feito por ordem de chegada respeitando as prioridades previstas em lei; e</li>
+<li style="margin-bottom: 0; text-align: justify;"><strong>Impossibilidade de presen&ccedil;a:</strong> informar formalmente &agrave; secretaria com uma anteced&ecirc;ncia m&iacute;nima de cinco dias &uacute;teis para o devido reagendamento.</li>
+</ul>
+<!-- CARD DE DESTAQUE: REGULAMENTO DISCIPLINAR -->
+<div style="background-color: #fff5f5; border-left: 4px solid #c62828; padding: 20px; margin: 25px 0 35px; border-radius: 4px;">
+<p style="margin: 0 0 8px; font-size: 17px; color: #c62828; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;">⚠️ N&Atilde;O COMPARECIMENTO &Agrave;S IS agendadas x RDM</p>
+<p style="margin: 0 0 10px; font-size: 14px; color: #666666; font-style: italic; text-align: left;">Al&iacute;nea e) do item 2.3.3. da DGPM-406 9&ordf; REV MOD 3:</p>
+<div style="border-left: 3px solid #ef9a9a; padding-left: 15px; margin: 10px 0 0; font-style: italic; color: #444444; text-align: justify; line-height: 1.6;">"os inspecionados s&atilde;o respons&aacute;veis ainda pelo agendamento e comparecimento &agrave;s JS na data marcada para realiza&ccedil;&atilde;o de sua IS, podendo a inobserv&acirc;ncia de tal orienta&ccedil;&atilde;o ser caracterizada como <strong style="color: #c62828;">contraven&ccedil;&atilde;o disciplinar</strong>"</div>
+</div>
+<!-- SECÇÃO 2: SOBRE AS FINALIDADES VDF E TÉRMINOS -->
+<h3 style="color: #050f41; font-size: 18px; margin: 35px 0 15px; border-bottom: 2px solid #050f41; padding-bottom: 5px; text-transform: uppercase;">2. SOBRE AS FINALIDADES VDF E T&Eacute;RMINOS</h3>
+<p style="margin: 0 0 15px; text-align: justify;">Nessas IS de finalidades VDF ou T&eacute;rminos n&atilde;o existe lista de exames m&iacute;nimos obrigat&oacute;rios, eles dependem do seu problem de sa&uacute;de atual:</p>
+<ul style="margin: 0 0 30px; padding-left: 20px; line-height: 1.7; color: #333333;">
+<li style="margin-bottom: 12px; text-align: justify;"><strong>Traga todos os relat&oacute;rios m&eacute;dicos, atestados e exames relacionados &agrave; sua condi&ccedil;&atilde;o atual:</strong>
+<ul style="margin: 8px 0 0; padding-left: 20px; line-height: 1.6; list-style-type: disc;">
+<li style="margin-bottom: 8px; text-align: justify;">Os pareceres especializados solicitados pelos m&eacute;dicos peritos, bem como <span style="color: #050f41; font-weight: bold;">os relat&oacute;rios e atestados pr&eacute;vios que voc&ecirc; traga, sempre s&atilde;o considerados, <span style="color: #c62828;">por&eacute;m n&atilde;o obrigatoriamente acatados,</span> sobretudo em rela&ccedil;&atilde;o ao tempo de LTS / Restri&ccedil;&otilde;es.</span> Isso independe das especialidades dos M&eacute;dicos Peritos e da especialidade do seu M&eacute;dico Assistente.</li>
+<li style="margin-bottom: 0; text-align: justify;">Atestados e relat&oacute;rios do seu m&eacute;dico assistente, bem como pareceres especializados solicitados, s&atilde;o opini&otilde;es puramente assistenciais. Os M&eacute;dicos Peritos desta JRS t&ecirc;m a devida capacita&ccedil;&atilde;o t&eacute;cnica pericial para avaliar a sua capacidade laboral al&eacute;m da compet&ecirc;ncia legal e normativa para determinar afastamentos e/ou restri&ccedil;&otilde;es, a partir da devida nomea&ccedil;&atilde;o pela Administra&ccedil;&atilde;o Naval.</li>
+</ul>
+</li>
+</ul>
+<!-- CARD DE DESTAQUE: PARECERES ASSISTENCIAIS -->
+<div style="background-color: #fffde7; border-left: 4px solid #fab932; padding: 20px; margin: 25px 0 30px; border-radius: 4px;">
+<p style="text-align: justify; margin: 0 0 10px; line-height: 1.6; font-style: italic; color: #333333; font-weight: bold;">"Os pareceres constituem opini&otilde;es do ponto de vista assistencial, <span style="color: #c62828;">que podem ou n&atilde;o ser acatados pelos solicitantes,</span> sempre de forma justificada. Ao serem exarados, dever&atilde;o ser assinados e expedidos aos solicitantes, no prazo m&aacute;ximo de sete dias &uacute;teis."</p>
+<p style="margin: 0; line-height: 1.4; text-align: right; font-size: 13px; color: #666666; font-weight: bold;">Al&iacute;nea b do item 2.3.31. da DGPM-406 9&ordf; REV MOD 3</p>
+</div>
+<ul style="margin: 0 0 30px; padding-left: 20px; line-height: 1.7; color: #333333;">
+<li style="margin-bottom: 12px; text-align: justify;"><strong>Caso julguem necess&aacute;rio, os M&eacute;dicos Peritos poder&atilde;o solicitar exames complementares e pareceres especializados adicionais:</strong>
+<ul style="margin: 8px 0 0; padding-left: 20px; line-height: 1.6; list-style-type: disc;">
+<li style="margin-bottom: 8px; text-align: justify;"><span style="color: #050f41; font-weight: bold;">Uma vez realizada a entrevista, a JRS tiene o prazo de 20 dias para concluir a IS</span> e informar o resultado por mensagem para a sua OM, SDP e &Oacute;rg&atilde;o de Pessoal.</li>
+<li style="margin-bottom: 8px; text-align: justify;">Nesse cen&aacute;rio, receber&aacute; uma Papeleta de Dispensa (Modelo DS-7) que poder&aacute; fornecer at&eacute; 20 dias de dispensa domiciliar enquanto os exames e pareceres s&atilde;o prontificados.</li>
+<li style="margin-bottom: 0; text-align: justify;">Caso os exames e pareceres solicitados n&atilde;o sejam providenciados nesse per&iacute;odo, ao t&eacute;rmino dos 20 dias, a JRS concluir&aacute; a sua IS a partir das informa&ccedil;&otilde;es que obteve no momento da entrevista, mesmo que voc&ecirc; n&atilde;o retorne presencialmente &agrave; JRS.</li>
+</ul>
+</li>
+<li style="margin-bottom: 0; text-align: justify;"><span style="color: #050f41;"><strong>Caso voc&ecirc; tenha um Atestado de Origem (AO) em aberto, as 3 vias devem estar anexadas na sua CR. Solicite uma c&oacute;pia fiel do seu AO &agrave; Divis&atilde;o de Pessoal e a deixe anexada no seu PMI.</strong></span> Sempre que vier &agrave;s IS VDF ou de T&eacute;rminos, voc&ecirc; dever&aacute; apresentar essa c&oacute;pia para que a JRS fa&ccedil;a a avalia&ccedil;&atilde;o se j&aacute; &eacute; o momento de fechar o AO.</li>
+</ul>
+<!-- SECÇÃO 3: CONCLUSÕES, LAUDOS E RECURSOS -->
+<h3 style="color: #050f41; font-size: 18px; margin: 35px 0 15px; border-bottom: 2px solid #050f41; padding-bottom: 5px; text-transform: uppercase;">3. CONCLUS&Otilde;ES, LAUDOS E RECURSOS</h3>
+<p style="margin: 0 0 15px; text-align: justify;"><strong>Na conclus&atilde;o da IS VDF ou IS T&eacute;rmino de Incapacidade</strong>, a JRS pode exarar os seguintes laudos:</p>
+<ul style="margin: 0 0 25px; padding-left: 20px; line-height: 1.7; color: #333333;">
+<li style="margin-bottom: 8px; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"APTO PARA O SAM":</span> O militar se encontra em condi&ccedil;&otilde;es de higidez psico-f&iacute;sica suficientes para exercer as suas atividades;</li>
+<li style="margin-bottom: 8px; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"APTO PARA O SAM COM RESTRI&Ccedil;&Otilde;ES":</span> O militar apresenta grau de defici&ecirc;ncia funcional que implica no afastamento de algumas atividades laborativas ou operativas;</li>
+<li style="margin-bottom: 8px; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"INCAPAZ TEMPORARIAMENTE PARA O SAM":</span> O militar necessita de afastamento total das suas atividades por apresentar doen&ccedil;a considerada cur&aacute;vel ou clinicamente control&aacute;vel. O SDP publica portaria concedendo a Licen&ccedil;a para Tratamento de Sa&uacute;de Pr&oacute;pria (LTSP);</li>
+<li style="margin-bottom: 8px; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"CONTINUA INCAPAZ TEMPORARIAMENTE PARA O SAM":</span> Ocorre quando o Militar de Carreira cruza os 36 meses de LTSP sem apresentar crit&eacute;rios para Incapacidade Definitiva, ou seja, por uma doen&ccedil;a que ainda pode ser cur&aacute;vel ou controlada; e</li>
+<li style="margin-bottom: 0; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"INCAPACIDADE DEFINITIVA PARA O SAM":</span> O militar apresenta uma doen&ccedil;a irrevers&iacute;vel que o impossibilita de exercer suas atividades, considerando idade, posto/gradua&ccedil;&atilde;o e atividades da rotina; &eacute; constatada a invalidez ou perspectiva de &ecirc;xito legal em curto prazo.</li>
+</ul>
+<p style="margin: 25px 0 15px; text-align: justify;"><strong>Na conclus&atilde;o da IS de T&eacute;rmino de Restri&ccedil;&otilde;es</strong>, a JRS pode exarar os seguintes laudos:</p>
+<ul style="margin: 0 0 25px; padding-left: 20px; line-height: 1.7; color: #333333;">
+<li style="margin-bottom: 8px; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"APTO PARA O SAM":</span> O militar se encontra em condi&ccedil;&otilde;es de higidez psico-f&iacute;sica suficientes para exercer as suas atividades; e</li>
+<li style="margin-bottom: 0; text-align: justify;"><span style="color: #050f41; font-weight: bold;">"APTO PARA O SAM COM RESTRI&Ccedil;&Otilde;ES":</span> O militar apresenta grau de defici&ecirc;ncia funcional que implica no afastamento de algumas atividades laborativas ou operativas.</li>
+</ul>
+<ul style="margin: 25px 0 30px; padding-left: 20px; line-height: 1.7; color: #333333;">
+<li style="margin-bottom: 8px; text-align: justify;"><strong>Nas IS T&eacute;rmino de Restri&ccedil;&otilde;es, se houver necessidade de LTSP ou de incluir novas restri&ccedil;&otilde;es, &eacute; necess&aacute;ria uma "IS FIM Fato Novo"</strong>;</li>
+<li style="margin-bottom: 8px; text-align: justify;">Imediatamente ap&oacute;s a conclus&atilde;o da IS, o Sargenteante Geral da sua OM ter&aacute; acesso ao Laudo da IS no que diz respeito &agrave; aptid&atilde;o laboral e per&iacute;odos de LTS / restri&ccedil;&otilde;es. Informa&ccedil;&otilde;es protegidas por sigilo m&eacute;dico, como Diagn&oacute;stico e CID, n&atilde;o ser&atilde;o compartilhadas nos termos da LGPD. Al&eacute;m disso, em at&eacute; 10 dias a sua OM receber&aacute; uma mensagem informando estes resultados; e</li>
+<li style="margin-bottom: 0; text-align: justify;">Caso a JRS exare laudo de Incapacidade Tempor&aacute;ria (LTSP) ou Incapacidade Parcial (Apto com restri&ccedil;&otilde;es), a Divis&atilde;o de Pessoal da sua OM dever&aacute; apresent&aacute;-lo para nova IS faltando at&eacute; 10 dias para o t&eacute;rmino do per&iacute;odo concedido:
+<ul style="margin: 8px 0 0; padding-left: 20px; line-height: 1.6; list-style-type: circle;">
+<li style="margin-bottom: 6px; text-align: justify;"><span style="color: #c62828;"><strong>O militar &eacute; respons&aacute;vel por comparecer &agrave; Secretaria da JRS ou agendar a IS em at&eacute; 7 dias &uacute;teis a contar da data de apresenta&ccedil;&atilde;o pela Divis&atilde;o de Pessoal.</strong></span></li>
+<li style="margin-bottom: 0; text-align: justify;">Cabe ao Titular da OM, por interm&eacute;dio dos Encarregados de Pessoal, o controle dos prazos e o atendimento das restri&ccedil;&otilde;es exaradas pela JS, sem preju&iacute;zo da responsabilidade individual do militar no cumprimento dos prazos, agendamentos e comparecimento &agrave;s IS agendadas.</li>
+</ul>
+</li>
+</ul>
+<!-- CARD DE DESTAQUE: RECURSO ADMINISTRATIVO -->
+<div style="background-color: #fff5f5; border-left: 4px solid #c62828; padding: 20px; margin: 25px 0 35px; border-radius: 4px;">
+<p style="margin: 0; font-size: 15px; color: #333333; line-height: 1.6; text-align: justify; font-weight: bold;">Caso o requerente discorde do laudo, tem o direito de interpor recurso de 1&ordf; inst&acirc;ncia &agrave; Junta Superior Distrital (JSD/COM3&ordm;DN) atrav&eacute;s de requerimento junto ao SDP via Titular da sua OM <span style="color: #993300; font-weight: bold;">em at&eacute; 45 dias</span> a contar da data da conclus&atilde;o da IS.</p>
+</div>
+<!-- SECÇÃO 4: SOLICITAÇÃO DE DOCUMENTOS MÉDICO-PERICIAIS -->
+<h3 style="color: #050f41; font-size: 18px; margin: 35px 0 15px; border-bottom: 2px solid #050f41; padding-bottom: 5px; text-transform: uppercase;">4. SOLICITA&Ccedil;&Atilde;O DE DOCUMENTOS M&Eacute;DICO-PERICIAIS</h3>
+<p style="margin: 0 0 25px; text-align: justify;"><strong><span style="font-size: 12pt;">Uma c&oacute;pia do Termo de Inspe&ccedil;&atilde;o de Sa&uacute;de poder&aacute; ser solicitada ao Centro de Per&iacute;cias M&eacute;dicas da Marinha (CPMM). Para facilitar e agilizar o tr&acirc;mite, utilize os bot&otilde;es de acesso direto abaixo:</span></strong></p>
+<p style="margin: 0 0 25px; text-align: justify;"></p>
+<!-- TABELA DE BOTÕES DA SECÇÃO 4 (Alinhamento perfeito de 960px - Sem ícones externos) -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top: 25px; margin-bottom: 25px;">
+<tbody>
+<tr><!-- Botão 1: Totalmente encostado à Esquerda -->
+<td width="33%" align="left" valign="top" style="font-family: 'carlito', 'calibri', 'arial', sans-serif;">
+<table align="left" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="border-radius: 8px;" bgcolor="#050f41"><a href="https://www.marinha.mil.br/cpmm/sites/www.marinha.mil.br.cpmm/files/arquivo/REQUERIMENTO.ods" target="_blank" rel="noopener" style="font-size: 13px; font-family: 'carlito', 'calibri', 'arial', sans-serif; color: #ffffff; text-decoration: none; border-radius: 8px; padding: 10px 16px; border: 1px solid #050f41; display: inline-block; font-weight: bold;"> Baixar Requerimento (ODS) </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- Botão 2: Centralizado ao Meio da página -->
+<td width="34%" align="center" valign="top" style="font-family: 'carlito', 'calibri', 'arial', sans-serif;">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="border-radius: 8px;" bgcolor="#050f41"><a href="https://www.marinha.mil.br/cpmm/sites/www.marinha.mil.br.cpmm/files/arquivo/orientacoes%20carta%20de%20servico%20cpmm.pdf" target="_blank" rel="noopener" style="font-size: 13px; font-family: 'carlito', 'calibri', 'arial', sans-serif; color: #ffffff; text-decoration: none; border-radius: 8px; padding: 10px 16px; border: 1px solid #050f41; display: inline-block; font-weight: bold;"> Ver Orienta&ccedil;&otilde;es (PDF) </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- Botão 3: Totalmente encostado à Direita -->
+<td width="33%" align="right" valign="top" style="font-family: 'carlito', 'calibri', 'arial', sans-serif;">
+<table align="right" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="border-radius: 8px;" bgcolor="#050f41"><a href="https://www.marinha.mil.br/cpmm/carta-usuario-cpmm" target="_blank" rel="noopener" style="font-size: 13px; font-family: 'carlito', 'calibri', 'arial', sans-serif; color: #ffffff; text-decoration: none; border-radius: 8px; padding: 10px 16px; border: 1px solid #050f41; display: inline-block; font-weight: bold;"> Site Oficial do CPMM </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div><!-- Informações Adicionais de Contacto (Utilizando emojis nativos limpos) --></div>
+<div></div>
+<div style="background-color: #f4f6f9; padding: 15px 20px; border-radius: 4px; margin-bottom: 35px; border-left: 4px solid #cccccc;">
+<p style="margin: 0 0 8px 0; font-size: 14px; color: #555555; font-family: 'carlito', 'calibri', 'arial', sans-serif;">📧 <strong>E-mail para envio do requerimento:</strong> <a href="mailto:cpmm.secom@marinha.mil.br" style="color: #050f41; text-decoration: none; font-weight: bold;">cpmm.secom@marinha.mil.br</a></p>
+<p style="margin: 0; font-size: 14px; color: #555555; font-family: 'carlito', 'calibri', 'arial', sans-serif;">📞 <strong>Telefone de contacto do CPMM:</strong> <a href="tel:2121265398" style="color: #050f41; text-decoration: none; font-weight: bold;">(21) 2126-5398</a></p>
+</div>
+<!-- DIVISOR INVISÍVEL COORDENADO -->
+<div style="height: 25px;"></div>
+<!-- BLOCO DE ASSINATURA DUPLA -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top: 1px solid #eeeeee; padding-top: 20px;">
+<tbody>
+<tr>
+<td style="font-family: 'carlito', 'calibri', 'arial', sans-serif; color: #333333;">
+<p style="font-size: 15px; margin: 0 0 15px 0; color: #333333;">Respeitosamente / Atenciosamente,</p>
+<!-- Primeira Assinatura: Supervisor (Por ordem de) -->
+<p style="font-size: 15px; margin: 0 0 5px 0; color: #666666; font-style: italic;">Por ordem de:</p>
+<div style="font-size: 18px; font-weight: bold; color: #050f41; margin: 0 0 2px 0;">Alessandro Giorginis Fidelis de Souza</div>
+<div style="font-size: 14px; line-height: 1.3; color: #666666; font-weight: normal; margin-bottom: 25px;"><strong>Suboficial-RM1-EF</strong><br />Supervisor</div>
+<!-- Segunda Assinatura: Presidente -->
+<div style="font-size: 18px; font-weight: bold; color: #050f41; margin: 0 0 2px 0;">Mauriston Renan Martins Silva</div>
+<div style="font-size: 14px; line-height: 1.3; color: #666666; font-weight: normal;"><strong>Capit&atilde;o-Tenente (Md)</strong><br />Presidente</div>
+<div style="height: 35px;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr><!-- Box do Rodapé Estruturado e Corrigido (Sem dependência do Google Fonts) -->
+<td style="background-color: #ececec; padding: 15px 20px; border-top: 1px solid #eeeeee; width: 100%;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
+<tbody>
+<tr><!-- Metade Esquerda: Logo da Marinha -->
+<td width="35%" align="center" valign="middle" style="padding-right: 15px; width: 50.9783%;"><img src="https://i.imgur.com/5JKaEFU.png" width="140" style="width: 383px; max-width: 100%; height: 109px; display: inline-block; border: 0px;" alt="Logo Marinha do Brasil" /></td>
+<!-- Centro: Divider Vertical Discreto -->
+<td width="1" style="border-left: 1px solid #cccccc; font-size: 1px; line-height: 1px; width: 1.08696%;">&nbsp;</td>
+<!-- Metade Direita: Informações com Emojis Estáveis e Nativos -->
+<td width="65%" align="left" valign="middle" style="padding-left: 20px; font-family: 'carlito', 'calibri', 'arial', sans-serif; font-size: 14px; line-height: 1.6; color: #555555; width: 64%;"><strong style="color: #333;">Hospital Naval de Recife - Junta Regular de Sa&uacute;de</strong><br />📞 (81) 3036 - 9073 <span style="margin: 0 8px;">/</span> 📧 <a href="mailto:hnre.jrs@marinha.mil.br" style="color: #050f41; text-decoration: none;" target="_blank" rel="noopener">hnre.jrs@marinha.mil.br</a><br />📍 Avenida Cruz Cabug&aacute; 1200, Santo Amaro, Recife/PE</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td height="30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</center></div>
+</div>
