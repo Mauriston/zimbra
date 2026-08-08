@@ -94,8 +94,7 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | esquizofrenia |<ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
 | transtorno delirante persistente | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
 | retardo mental profundo ou grave | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
-| transtorno de personalidade e do comportamento<br>devido à doença, lesão ou disfunção
-cerebral | <ul><li>grave<br></li><li>cronificado</li><li>resistente ao tratamento</li></ul> |
+| transtorno de personalidade e do comportamento<br>devido à doença lesão ou disfunção cerebral | <ul><li>grave<br></li><li>cronificado</li><li>resistente ao tratamento</li></ul> |
 | retardo mental moderado | <ul><li>atraso acentuado no desenvolvimento na infância<br></li><li>mínimo grau de independência quanto aos cuidados pessoais</li><li>mínimo grau de comunicação social e habilidade acadêmica</li></ul> |  
 | transtorno afetivo bipolar grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtorno depressivo recorrente grave <br>com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
