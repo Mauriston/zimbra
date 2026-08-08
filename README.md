@@ -94,11 +94,11 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | esquizofrenia |<ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
 | transtorno delirante persistente | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
 | retardo mental profundo ou grave | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
-| transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral | <ul><li>grave<br></li><li>cronificado</li><li>resistente ao tratamento</li></ul> |
+| transtorno de personalidade e do comportamento | <ul><li>grave<br></li><li>cronificado</li><li>resistente ao tratamento</li></ul> |
 | retardo mental moderado | <ul><li>atraso acentuado no desenvolvimento na infância<br></li><li>mínimo grau de independência quanto aos cuidados pessoais</li><li>mínimo grau de comunicação social e habilidade acadêmica</li></ul> |  
 | transtorno afetivo bipolar grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtorno depressivo recorrente grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
-| transtornos mentais e comportamentais devido ao uso de substância psicoativa | <ul><li>presença de sintomas psicóticos<br></li><li>comprometimento grave e irreversível de personalidade</li><li>refratariedade ao tratamento</li></ul> | 
+| transtornos mentais por uso de substância psicoativa | <ul><li>presença de sintomas psicóticos<br></li><li>comprometimento grave e irreversível de personalidade</li><li>refratariedade ao tratamento</li></ul> | 
 | casos graves de epilepsia | <ul><li>predominância de sintomas de demenciação<br></li><li>refratariedade ao tratamento</li><li>elevada frequência de surto psicóticos</li></ul> | 
 | autismo infantil ou atípico | o próprio diagnóstico |
 | síndrome de Rett. | o próprio diagnóstico |
