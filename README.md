@@ -12,23 +12,23 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 
 | Doença de Lei | Incapacidade por Definição |
 | ----------------------------- | ------------------------- |
-| Alienação Mental         | Sim        | 
-| Cardiopatia Grave        | Sim        | 
-| Cegueira                 | Sim        | 
-| Espondilite Anquilosante | [ ]        | 
-| Estados avançados do mal de Paget         | Sim        | 
-| Hanseníase        | Sim        | 
-| Doença de Parkinson                    |  | 
-| Nefropatia Grave                       | Sim | 
-| Neoplasia Maligna                      |  | 
-| Paralisia Irreversível e Incapacitante | Sim |
-| Pênfigo                                |  |
-| SIDA/AIDS |         | 
-| Tuberculose Ativa         |         | 
-| Hepatopatia Grave         | Sim |
-| Contaminação por radiação |  | 
-| Esclerose Múltipla        |  |
-| Fibrose Cística           |  |
+| **Alienação Mental**         | **Sim**        | 
+| **Cardiopatia Grave**        | **Sim**        | 
+| **Cegueira**                 | **Sim**        | 
+| Espondilite Anquilosante | Não        | 
+| **Estados avançados do mal de Paget**         | **Sim**        | 
+| Hanseníase        | Não        | 
+| Doença de Parkinson                    | Não   | 
+| **Nefropatia Grave**                       | **Sim** | 
+| Neoplasia Maligna                      | Não  | 
+| **Paralisia Irreversível e Incapacitante** | **Sim** |
+| Pênfigo                                | Não   |
+| SIDA/AIDS | Não         | 
+| Tuberculose Ativa         | Não         | 
+| **Hepatopatia Grave**         | **Sim** |
+| Contaminação por radiação | Não   | 
+| Esclerose Múltipla        | Não  |
+| Fibrose Cística           | Não   |
 
 ## Alienação Mental
 1. Conceituação
@@ -150,7 +150,8 @@ interdição, administração provisória e outros casos, na forma prevista em L
 3.4. A medida legal superveniente à conclusão das Juntas de Inspeção de Saúde e dos AMP
 complementará, indispensavelmente, o processo administrativo de reforma (ou aposentadoria) do
 inspecionando portador de alienação mental.
-Cardiopatia Grave
+
+## Cardiopatia Grave
 4. Conceituação
 4.1. Cardiopatia grave não é um diagnóstico clínico. A sua classificação se baseia nos aspectos
 de gravidade das cardiopatias, colocados em perspectiva com a capacidade de exercer as funções
@@ -767,7 +768,8 @@ cardíaca que acarrete o total e definitivo impedimento das condições laborati
 rotineiras, existindo implicitamente, uma expectativa de vida diminuída, baseando-se o avaliador na
 documentação e no diagnóstico da cardiopatia, tendo sido esgotados todos os recursos terapêuticos
 disponíveis.
-Cegueira
+
+## Cegueira
 7. Perícia Oftalmológica - conceitos
 7.1. Acuidade visual
 A acuidade visual (AV) é a capacidade de perceber a forma e o contorno dos objetos e também
@@ -920,7 +922,8 @@ constar entre parênteses, ao lado do diagnóstico, a expressão "cegueira".
 10.3. As Juntas de Inspeção de Saúde e os AMP, ao emitirem laudos de isenção do pagamento
 do Imposto de Renda de portadores da condição visão monocular, conforme os padrões descritos nesta
 Portaria, deverão fazer constar a expressão "Visão Monocular".
-Espondilite Anquilosante
+
+## Espondilite Anquilosante
 11. Conceituação
 11.1. A Espondilite Anquilosante, inadequadamente denominada de espondiloartrose
 anquilosante nos textos legais, é uma doença inflamatória de etiologia desconhecida, que afeta
@@ -950,7 +953,8 @@ a) comprovação radiológica de anquilose;
 b) cintilografia óssea;
 c) teste sorológico específico HLA - B27; e
 d) tomografia computadorizada de articulações sacroilíacas e coluna acometidas.
-Estados avançados da doença de Paget (Osteíte Deformante)
+
+## Estados avançados da doença de Paget (Osteíte Deformante)
 13. Conceituação
 13.1. A doença de Paget é uma afecção óssea crônica, caracterizada por deformações ósseas de
 evolução lenta e progressiva, de etiologia desconhecida, geralmente assintomática e acometendo um só
@@ -981,7 +985,8 @@ c) dosagem da hidroxiprolina urinária nas 24 horas;
 d) tomografia computadorizada e, preferencialmente, ressonância nuclear magnética com
 resultado de biópsia óssea nos casos de suspeita de degeneração sarcomatosa; e
 e) cintilografia óssea.
-Hanseníase
+
+## Hanseníase
 15. Conceituação
 15.1. A hanseníase é uma doença infecto-contagiosa de notificação compulsória, causada pelo
 Mycobacterium leprae (bacilo de Hansen), de curso crônico, podendo apresentar surtos reacionais
@@ -1016,7 +1021,8 @@ a) permanecerem com sinais de atividade clínica após completarem o tratamento;
 b) tiverem a ocorrência de atividade clínica após a alta por cura, isto é, recidiva;
 c) manifestarem surtos reacionais frequentes durante o tratamento ou após a cura; e
 d) apresentarem sequelas invalidantes.
-Mal de Parkinson (doença de Parkinson).
+
+## Mal de Parkinson (doença de Parkinson).
 17. Conceituação
 17.1. O mal de Parkinson (doença de Parkinson) é um quadro mórbido de etiologia ainda não
 estabelecida, resultante do comprometimento do sistema nervoso extrapiramidal e caracterizado pelos
@@ -1042,7 +1048,8 @@ Médica especializada.
 18.2. As Juntas de Inspeção de Saúde e os AMP não deverão enquadrar como portadores de Mal
 de Parkinson os inspecionados com quadro de Parkinsonismo Secundário ao uso de medicamentos
 quando, pela supressão destes, houver regressão e desaparecimento do quadro clínico.
-Nefropatias Graves
+
+## Nefropatias Graves
 19. Conceituação
 São consideradas nefropatias graves as patologias de evolução aguda, subaguda ou crônica
 que, de modo irreversível, acarretam insuficiência renal, determinando incapacidade permanente para o
@@ -1069,7 +1076,8 @@ clínicos relevantes.
 21.2. As nefropatias classificadas como insuficiência renal grave, Estágios 4 e 5.
 21.3. As Juntas de inspeção de Saúde e os AMP deverão, ao exarar o laudo médico-pericial,
 identificar o tipo de nefropatia seguido da indicação da presença ou não da condição nefropatia grave.
-Neoplasias Malignas
+
+## Neoplasias Malignas
 22. Conceituação
 22.1. As neoplasias malignas compreendem um grupo de doenças caracterizadas pelo
 desenvolvimento incontrolado de células anormais que se disseminam, podendo acometer outros órgãos,
@@ -1114,7 +1122,8 @@ forma de conclusão a ser adotada no laudo é a seguinte: "Tem diagnóstico hist
 maligna e localização), classificação pela CID 10, (Neoplasia Maligna), a partir de (dd/mm/aaaa)".
 Neste caso, as juntas de Inspeção de Saúde e os AMP deverão enquadrar o periciado como
 "história de neoplasia maligna" e o benefício de isenção de imposto de renda deverá ser mantido.
-Paralisia Irreversível e Incapacitante
+
+## Paralisia Irreversível e Incapacitante
 25. Conceituação
 25.1. Entende-se por paralisia a incapacidade de contração voluntária de um músculo ou grupo
 de músculos, resultante de uma lesão orgânica de natureza destrutiva ou degenerativa, a qual implica
@@ -1162,7 +1171,8 @@ considerada irreversível e incapacite o inspecionado para o exercício das ativ
 das atividades rotineiras quando se tratar de inspecionados inativos ou dependentes.
 27.7. As Juntas de Inspeção de Saúde e os AMP, após enunciar o diagnóstico, deverão declarar,
 entre parênteses, a expressão "Paralisia Irreversível e Incapacitante".
-Pênfigos
+
+## Pênfigos
 28. Conceituação
 28.1. Os pênfigos compreendem um grupo de dermatoses de curso crônico não contagiosas, de
 etiologia ainda desconhecida, cujas características principais são:
@@ -1199,7 +1209,8 @@ definitivos quando o diagnóstico clínico de pênfigo for confirmado por meio d
 indicar.
 30.2. As Juntas de Inspeção de Saúde e os AMP não deverão enquadrar como pênfigo os casos
 provocados por fármacos.
-Síndrome da Imunodeficiência Adquirida (SIDA/Aids)
+
+## Síndrome da Imunodeficiência Adquirida (SIDA/Aids)
 31. Conceituação
 31.1. A Síndrome da Imunodeficiência Adquirida (SIDA/Aids) é a manifestação mais grave da
 infecção pelo vírus da imunodeficiência humana (HIV), caracterizando-se por apresentar uma severa
@@ -1301,7 +1312,8 @@ d) "SIDA/Aids, classificação A3, estando incapaz para ao Serviço Ativo e para
 trabalho"; e
 e) "SIDA/Aids, Sarcoma de Kaposi, classificação C2, estando incapaz para o Serviço Ativo e para
 todo e qualquer trabalho".
-Tuberculose Ativa
+
+## Tuberculose Ativa
 34. Conceituação
 34.1. A tuberculose é uma doença infectocontagiosa causada pelo Mycobacterium tuberculosis,
 de evolução aguda ou crônica, de notificação compulsória. Pode acometer qualquer órgão, tendo, no
@@ -1369,7 +1381,8 @@ inspecionados, deverão fazer constar dos laudos o diagnóstico, acrescido da ex
 entre parênteses, complementando com dados que permitam o enquadramento legal aplicável ao caso.
 37.7. As sequelas das lesões tuberculosas, quando irreversíveis e terão enquadramento legal
 análogo ao dispensado à tuberculose ativa, pois que dela diretamente decorrem.
-Hepatopatia grave
+
+## Hepatopatia grave
 38. Conceituação
 38.1. As hepatopatias graves compreendem um grupo de doenças que atingem o fígado, de
 forma crítico ou secundária, com evolução aguda ou crítica, ocasionando alteração estrutural extensa e
@@ -1476,7 +1489,8 @@ doenças metabólicas congênitas, portadores de vírus B e C, alcoólatras.
 44. Constitui exemplo de laudo:
 "Cirrose hepática consequente à hepatite crítica pelo vírus B, com insuficiência hepática Classe
 C de Child, é hepatopatia grave."
-Contaminação por radiação "Doenças causadas por exposição à radiação ionizante"
+
+## Contaminação por radiação "Doenças causadas por exposição à radiação ionizante"
 45. Conceituação
 45.1. Consideram-se "doenças causadas por Radiação ionizante em estágio avançado" todas
 patologias que tenham, comprovadamente, relação de causa e efeito com a Radiação ionizante, com
@@ -1579,7 +1593,8 @@ a)"Síndrome Cutânea da Radiação, W.88 CID-Rev10, estágio grave (Grau III) o
 b)"Sequela de Síndrome Cutânea da Radiação, W.88 CIDRev10, irremissível";
 c)"Síndrome Aguda da Radiação, W.88 CID-Rev10, estágio pré-terminal grave"; e
 d)"Sequela de Síndrome Aguda da Radiação, W.88 CIDRev10, irremissível."
-Esclerose múltipla
+
+## Esclerose múltipla
 51. É uma doença desmielinizante do sistema nervoso central, progressiva, caracterizada por
 placas disseminadas de desmielinização no cérebro e na medula espinhal, resultando em múltiplos e
 variados sintomas e sinais, geralmente com remissões e exacerbações. Sua causa é desconhecida, mas há
@@ -1611,7 +1626,8 @@ de Saúde e os AMP farão o enquadramento por incapacidade definitiva, por escle
 de curso progressivo, com comprometimento motor ou outros distúrbios orgânicos que caracterizem a
 incapacidade para o exercício de suas atividades laborais. Quando determinar a incapacidade definitiva
 para todo e qualquer trabalho será enquadrado como inválido.
-Fibrose cística
+
+## Fibrose cística
 52. É uma doença genética autossômica recessiva, decorrente da ausência, deficiência da
 produção ou defeito na função de um polipeptídeo regulador da condutância transmembrana, que
 funciona na regulação da permeabilidade do íon cloro através de células de órgãos epiteliais.
@@ -1640,13 +1656,4 @@ e) dosagem das enzimas hepáticas; e
 f) dosagem de enzimas pancreáticas.
 52.4. Pela gravidade e prognóstico reservado da doença, o diagnóstico somente poderá ser
 confirmado com dois testes do suor positivos, realizados em momentos diferentes.
-CAPÍTULO IV
-DAS DISPOSIÇÕES FINAIS
-53. As Forças Armadas poderão sugerir ao Ministério da Defesa, a qualquer tempo, as alterações
-que julgarem pertinentes para manter o valor atual e prático destas Normas e facilitar a sua aplicação.
-53.1. As propostas apresentadas serão examinadas pelos Serviços de Saúde da Marinha, do
-Exército e da Aeronáutica e, obtido o consenso, serão introduzidas nesta publicação mediante portaria do
-Ministro de Estado da Defesa, de acordo com as disposições legais em vigor.
-53.2. Estas Normas deverão ser revistas a cada cinco anos, a contar da data de sua publicação
-no Diário Oficial da União.
-Este conteúdo não substitui o publicado na versão certificada.
+
