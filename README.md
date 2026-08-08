@@ -2,51 +2,9 @@
 > Aprova as normas para a avaliação pericial dos portadores de doenças especificadas em lei pelas Juntas de Inspeção de Saúde e pelos Agentes Médico-Periciais da Marinha, do
 Exército, da Aeronáutica e do Hospital das Forças Armadas, bem como os padrões e critérios para a concessão de benefícios aos seus pensionistas, dependentes ou beneficiários.
 
-WALTER SOUZA BRAGA NETTO
-ANEXO
-NORMAS PARA AVALIAÇÃO PERICIAL DOS PORTADORES DE DOENÇAS ESPECIFICADAS EM LEI
-PELAS JUNTAS DE INSPEÇÃO DE SAÚDE E PELOS AGENTES MÉDICO PERICIAIS (APM) DA MARINHA, DO
-EXÉRCITO, DA AERONÁUTICA E DO HOSPITAL DAS FORÇAS ARMADAS, E PARA ESTABELECIMENTO DOS
-PADRÕES E CRITÉRIOS PARA A CONCESSÃO DE BENEFÍCIOS AOS SEUS PENSIONISTAS, DEPENDENTES
-OU BENEFICIÁRIOS.
-CAPÍTULO I
-DA FINALIDADE, DA APLICAÇÃO E DA FUNDAMENTAÇÃO LEGAL
-Finalidade
-As normas têm por finalidade relacionar as doenças que, à luz de dispositivos legais, são
-consideradas graves e potencialmente incapacitantes, e padronizar os procedimentos a serem adotados
-pelas Juntas de Inspeção de Saúde e pelos Agentes Médico-Periciais (AMP) da Marinha, do Exército, da
-Aeronáutica e do Hospital das Forças Armadas (HFA), visando à uniformização dos laudos médico-periciais
-por elas exarados. Também visam padronizar os critérios internos para concessão de benefícios de isenção
-de Imposto de Renda (IR) na avaliação de militares reformados pensionistas e dependentes de militares.
-Aplicação
+## DAS CONSIDERAÇÕES PRELIMINARES
 
-Aplicam-se às Juntas de Inspeção de Saúde e aos AMP das Forças Armadas e do HFA e sua
-utilização será facilitada por instruções de cada Força, de maneira a atender às peculiaridades dos
-respectivos sistemas médico-periciais.
-Fundamentação
-Os seguintes instrumentos legais serviram de base à elaboração destes normativos:
-a) Lei nº 6.880, de 9 de dezembro de 1980;
-b) Lei nº 7.670, de 8 de setembro de 1988;
-c) Lei nº 7.713, de 22 de dezembro de 1988 (inciso XIV do art. 6º, alterado pela Lei nº 11.052, de
-29 de dezembro de 2004) e Lei nº 8.541, de 23 de dezembro de 1992; e
-c) Instrução Normativa nº 1.500/RFB, de 29 de outubro de 2014.
-CAPÍTULO II
-DAS CONSIDERAÇÕES PRELIMINARES
-Apresentação
-A rápida evolução dos conhecimentos científicos, o aparecimento de métodos semiológicos
-mais sensíveis, as novas descobertas sobre as doenças e seus mecanismos e os avanços terapêuticos
-ocorridos após a aprovação da 1ª edição da FA-N-06 - "Normas para Avaliação das Doenças
-Incapacitantes", tornaram imperativas a revisão e atualização periódica dessa publicação, com suas últimas
-revisões realizadas por meio da Portaria Normativa nº 1.174, em 6 de setembro de 2006, e da Portaria
-Normativa nº 183, de 8 de fevereiro de 2010, ambas deste Ministério da Defesa.
-Esta edição é resultado do trabalho conjunto desenvolvido pelo Ministério da Defesa, por
-intermédio do Departamento de Saúde e Assistência Social (DESAS), da Secretaria de Pessoal, Ensino,
-Saúde e Desporto (SEPESD) e pelas Diretorias de Saúde dos Comandos das Forças.
-Por fim, modificações significativas foram introduzidas, sendo mantidos os dados considerados
-indispensáveis para o enquadramento legal dos inspecionados, visando a um critério uniforme na emissão
-dos laudos médico-periciais. Foram utilizados também, como subsídios, diversos consensos e diretrizes
-emitidos pelas Sociedades Médicas de Classes.
-Conceitos relevantes
+### Conceitos relevantes
 Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 a) incapacidade: é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em
 decorrência das repercussões clínicas de determinada patologia; e
