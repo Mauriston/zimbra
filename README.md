@@ -30,29 +30,28 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 | Fibrose Cística           | Não   |
 
 ## Alienação Mental
-1. Conceituação
-  2. 
-  1.1. Conceitua-se como alienação mental todo caso de distúrbio mental ou neuromental grave e persistente, no qual, esgotados os meios habituais de tratamento, haja alteração completa ou considerável da personalidade, comprometendo gravemente os juízos de valor e realidade, destruindo a autodeterminação e do pragmatismo e tornando o indivíduo total e permanentemente inválido para qualquer trabalho.
-#### 1.2. As Juntas de Inspeção de Saúde e os AMP deverão "preservar-se contra uma exagerada admissão de irresponsabilidade" (N. Hungria) e identificar, no quadro clínico de alienação mental, os seguintes elementos:
-##### a) transtorno intelectual: atinge as funções mentais em conjunto e não apenas algumas delas;
-##### b) falta de autoconsciência: o indivíduo ignora o caráter patológico de seu transtorno ou temdele uma noção parcial ou descontínua;
-##### c) inadaptabilidade: o transtorno mental é evidenciado pela desarmonia de conduta do indivíduo em relação às regras que disciplinam a vida normal em sociedade; e
-##### d) ausência de utilidade: a perda da adaptabilidade redunda em prejuízo para o indivíduo e paraa sociedade (Beca Soto).
-#### 1.3. As Juntas de Inspeção de Saúde e os AMP poderão identificar alienação mental no curso dequalquer enfermidade psiquiátrica desde que, em seu estágio evolutivo, estejam satisfeitas todas as condições a seguir discriminadas:
-##### a) seja enfermidade mental ou neuromental;
-##### b) seja grave persistente;
-##### c) seja refratária aos meios habituais de tratamento;
-##### d) provoque alteração completa ou considerável da personalidade;
-##### e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;
-##### f) torne o indivíduo total e permanentemente inválido para qualquer trabalho; e
-##### g) haja um nexo sintomático entre o quadro psíquico e a personalidade do indivíduo.
+### 1. Conceituação
+1.1. Conceitua-se como alienação mental todo caso de distúrbio mental ou neuromental grave e persistente, no qual, esgotados os meios habituais de tratamento, haja alteração completa ou considerável da personalidade, comprometendo gravemente os juízos de valor e realidade, destruindo a autodeterminação e do pragmatismo e tornando o indivíduo total e permanentemente inválido para qualquer trabalho.
+1.2. As Juntas de Inspeção de Saúde e os AMP deverão "preservar-se contra uma exagerada admissão de irresponsabilidade" (N. Hungria) e identificar, no quadro clínico de alienação mental, os seguintes elementos:
+a) transtorno intelectual: atinge as funções mentais em conjunto e não apenas algumas delas;
+b) falta de autoconsciência: o indivíduo ignora o caráter patológico de seu transtorno ou temdele uma noção parcial ou descontínua;
+c) inadaptabilidade: o transtorno mental é evidenciado pela desarmonia de conduta do indivíduo em relação às regras que disciplinam a vida normal em sociedade; e
+d) ausência de utilidade: a perda da adaptabilidade redunda em prejuízo para o indivíduo e paraa sociedade (Beca Soto).
+1.3. As Juntas de Inspeção de Saúde e os AMP poderão identificar alienação mental no curso dequalquer enfermidade psiquiátrica desde que, em seu estágio evolutivo, estejam satisfeitas todas as condições a seguir discriminadas:
+a) seja enfermidade mental ou neuromental;
+b) seja grave persistente;
+c) seja refratária aos meios habituais de tratamento;
+d) provoque alteração completa ou considerável da personalidade;
+e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;
+f) torne o indivíduo total e permanentemente inválido para qualquer trabalho; e
+g) haja um nexo sintomático entre o quadro psíquico e a personalidade do indivíduo.
 1.4. São considerados meios habituais de tratamento:
 a) psicoterapia;
 b) psicofarmacoterapia; e
 c) terapêutica biológica (eletroconvulsoterapia, insulinoterapia, entre outros).
 1.5. Não é considerado meio de tratamento a utilização de psicofármacos em fase de
 experiência laboratorial.
-2. Quadros clínicos que cursam com a alienação mental
+### 2. Quadros clínicos que cursam com a alienação mental
 2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas
 alíneas "d", "e" e "f" do subitem 1.3:
 a) demência;
@@ -97,7 +96,7 @@ k) transtornos do desenvolvimento psicológico, exceto autismo e Síndrome de Re
 l) transtornos hipercinéticos ou de conduta.
 2.3.1. Os casos excepcionalmente graves e persistentes de estados psicopatológicos, citados
 nas letras "a", "b" e "c" do item 2.3. desta Legislação podem, entretanto, causar invalidez.
-3. Normas de Procedimento das Juntas de Inspeção de Saúde e dos AMP - Alienação Mental
+### 3. Normas de Procedimento das Juntas de Inspeção de Saúde e dos AMP - Alienação Mental
 3.1. As Juntas de Inspeção de Saúde e os AMP, para maior clareza e definição imediata da
 situação do inspecionando, deverão fazer constar, obrigatoriamente, nos laudos de alienação mental os
 seguintes dados:
