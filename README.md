@@ -31,7 +31,7 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 
 ## Alienação Mental
 ### 1. Conceituação
-1.1. Conceitua-se como alienação mental todo caso de distúrbio mental ou neuromental grave e persistente, no qual, esgotados os meios habituais de tratamento, haja alteração completa ou considerável da personalidade, comprometendo gravemente os juízos de valor e realidade, destruindo a autodeterminação e do pragmatismo e tornando o indivíduo total e permanentemente inválido para qualquer trabalho.
+> 1.1. Conceitua-se como alienação mental todo caso de distúrbio mental ou neuromental grave e persistente, no qual, esgotados os meios habituais de tratamento, haja alteração completa ou considerável da personalidade, comprometendo gravemente os juízos de valor e realidade, destruindo a autodeterminação e do pragmatismo e tornando o indivíduo total e permanentemente inválido para qualquer trabalho.
 
 1.2. As Juntas de Inspeção de Saúde e os AMP deverão "preservar-se contra uma exagerada admissão de irresponsabilidade" (N. Hungria) e identificar, no quadro clínico de alienação mental, os seguintes elementos:
 a) transtorno intelectual: atinge as funções mentais em conjunto e não apenas algumas delas;
