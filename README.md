@@ -91,10 +91,10 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | QUADRO CLÍNICO | CRITÉRIOS PARA ENQUADRAMENTO |
 | :---- | :---- |
 | demência | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
-| esquizofrenia | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
-| transtorno delirante persistente | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
-| retardo mental profundo ou grave | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
-| transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral | grave cronificado resistente ao tratamento |
+| esquizofrenia |<ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
+| transtorno delirante persistente | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
+| retardo mental profundo ou grave | <ul><li>provoque alteração completa ou considerável da personalidade<br></li><li>comprometa gravemente os juízos de valor e realidade</li><li>com destruição da autodeterminação e do pragmatismo</li><li>torne o indivíduo total e permanentemente inválido para qualquer trabalho</li></ul> |
+| transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral | <ul><li>Grave<br></li><li>Cronificado</li>li>Resistente ao tratamento</li></ul> |
 | retardo mental moderado | atraso acentuado no desenvolvimento na infância; e mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica; |
 | transtorno afetivo bipolar grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtorno depressivo recorrente grave com sintomas psicóticos | cronificado resistente ao tratamento |
