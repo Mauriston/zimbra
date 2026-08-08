@@ -8,8 +8,7 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 * **a) incapacidade:** é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em decorrência das repercussões clínicas de determinada patologia; e
 * **b) invalidez:** é a perda definitiva pelo inspecionado das condições mínimas de saúde para o exercício de qualquer atividade laboral formal, nos âmbitos civil ou militar.
 #### Doenças que por definição causam incapacidade para todo e qualquer trabalho
-  * Não há critérios rígidos para enquadramento em invalidez, mesmo nos casos em que tal condição decorra de doenças especificadas em lei. Por outro lado, nos casos daquelas doenças em que por denominação ou definição, a incapacidade para todo e qualquer trabalho seja condição inerente, como nos casos de alienação mental, cardiopatia grave, cegueira, estados avançados da doença de Paget, nefropatia grave, paralisia irreversível e incapacitante e hepatopatia grave, o enquadramento em invalidez torna-se mandatório.
-
+  
 | Doença de Lei | Incapacidade por Definição |
 | ----------------------------- | ------------------------- |
 | **Alienação Mental**         | **Sim**        | 
