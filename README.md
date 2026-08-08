@@ -67,9 +67,9 @@ alíneas "d", "e" e "f" do subitem 1.3:
 2.2. São excepcionalmente considerados casos de alienação:
 > - **a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção
 cerebral e que satisfizer as três condições a seguir citadas:**
-  - seja grave;
-  - cronificado; e
-  - resistente ao tratamento;
+>  - seja grave;
+>  - cronificado; e
+>  - resistente ao tratamento;
 > - **b) retardo mental moderado e que satisfizer as três condições a seguir citadas:**
   - atraso acentuado no desenvolvimento na infância; e
   - mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
