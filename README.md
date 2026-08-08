@@ -57,7 +57,7 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 1.5. Não é considerado meio de tratamento a utilização de psicofármacos em fase de experiência laboratorial.
 
 ### 2. Quadros clínicos que cursam com a alienação mental
-2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas
+#### 2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas
 alíneas "d", "e" e "f" do subitem 1.3:
 - **a) demência;**
 - **b) esquizofrenia;**
