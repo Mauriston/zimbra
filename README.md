@@ -5,9 +5,9 @@ Exército, da Aeronáutica e do Hospital das Forças Armadas, bem como os padrõ
 ## DAS CONSIDERAÇÕES PRELIMINARES
 ### Conceitos relevantes
 Para o entendimento desta legislação, são relevantes os seguintes conceitos:
-a) incapacidade: é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em
+* a) incapacidade: é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em
 decorrência das repercussões clínicas de determinada patologia; e
-b) invalidez: é a perda definitiva pelo inspecionado das condições mínimas de saúde para o
+* b) invalidez: é a perda definitiva pelo inspecionado das condições mínimas de saúde para o
 exercício de qualquer atividade laboral formal, nos âmbitos civil ou militar. Nos casos de inspecionados em
 atividade, pensionistas e dependentes, o enquadramento em invalidez obedece a parâmetros clínico-
 funcionais específicos para cada caso, comprovada a repercussão da doença sobre a capacidade laboral
