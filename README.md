@@ -100,8 +100,8 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | transtorno depressivo recorrente grave <br>com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtornos mentais e comportamentais<br>por uso de substância psicoativa | <ul><li>presença de sintomas psicóticos<br></li><li>comprometimento grave e irreversível de personalidade</li><li>refratariedade ao tratamento</li></ul> | 
 | casos graves de epilepsia | <ul><li>predominância de sintomas de demenciação<br></li><li>refratariedade ao tratamento</li><li>elevada frequência de surto psicóticos</li></ul> | 
-| autismo infantil ou atípico | o próprio diagnóstico |
-| síndrome de Rett. | o próprio diagnóstico |
+| autismo infantil ou atípico | <ul><li>o próprio diagnóstico</li></ul> |
+| síndrome de Rett. | <ul><li>o próprio diagnóstico</li></ul> |
 
 #### 2.3. Não são casos de alienação mental:
 - a) síndrome amnésica orgânica;
