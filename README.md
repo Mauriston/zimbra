@@ -287,12 +287,13 @@ instituídas medidas terapêuticas pertinentes.
 8) infarto perioperatório de cirurgia de revascularização do miocárdio; e
 9) infarto agudo do miocárdio em indivíduo já com infarto prévio de grande extensão ou com
 insuficiência cardíaca já estabelecida.
+
 Cabe ressaltar que, apesar de mencionadas as formas agudas das Cardiopatias Isquêmicas, a
 avaliação pericial dar-se-á posteriormente às medidas terapêuticas instituídas, a fim de viabilizar o
 enquadramento em Cardiopatia Grave, de acordo com os critérios definidos nesta Portaria, exceto nos
 casos em que haja rápida evolução para óbito.
-5.1.2. Forma crônica (Angina estável)
-a) Quadro clínico:
+
+#### 5.1.2. Forma crônica (Angina estável)
 1) angina classes III e IV da CCS (Canadian Cardiovascular Society), a despeito da otimização da
 terapêutica;
 2) clínica de insuficiência cardíaca associada à isquemia aguda nas formas crônicas, a presença
