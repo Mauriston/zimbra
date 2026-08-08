@@ -213,10 +213,10 @@ d) **Classe/Grau IV:** indivíduos portadores de doença cardíaca que os imposs
 atividade física. Estes indivíduos, mesmo em repouso, apresentam dispneia, palpitações, fadiga ou angina
 de peito.<br><br>
 #### 4.4.1. Os meios de diagnóstico a serem empregados na avaliação da capacidade funcional do
-coração, são, entre outros:
-a) história clínica, com dados evolutivos da doença; história<br><br>
-b) exame clínico;<br><br>
-c) eletrocardiograma, em repouso;<br><br>
+coração, são, entre outros:<br><br>
+  a) história clínica, com dados evolutivos da doença; história<br><br>
+  b) exame clínico;<br><br>
+  c) eletrocardiograma, em repouso;<br><br>
 d) eletrocardiografia dinâmica (Holter);<br><br>
 e) teste ergométrico;<br><br>
 f) ecocardiograma, em repouso;<br><br>
