@@ -214,31 +214,31 @@ atividade física. Estes indivíduos, mesmo em repouso, apresentam dispneia, pal
 de peito.<br><br>
 #### 4.4.1. Os meios de diagnóstico a serem empregados na avaliação da capacidade funcional do
 coração, são, entre outros:<br><br>
-  a) história clínica, com dados evolutivos da doença; história<br><br>
-  b) exame clínico;<br><br>
-  c) eletrocardiograma, em repouso;<br><br>
-d) eletrocardiografia dinâmica (Holter);<br><br>
-e) teste ergométrico;<br><br>
-f) ecocardiograma, em repouso;<br><br>
-g) ergoespirometria (vo2 pico<14ml/kg/min);<br><br>
-h) teste de caminhada de 6 minutos;<br><br>
-i) ecocardiograma associado a esforço ou procedimentos farmacológicos;<br><br>
+a) história clínica, com dados evolutivos da doença; história<br>
+b) exame clínico;<br>
+c) eletrocardiograma, em repouso;<br>
+d) eletrocardiografia dinâmica (Holter);<br>
+e) teste ergométrico;<br>
+f) ecocardiograma, em repouso;<br>
+g) ergoespirometria (vo2 pico<14ml/kg/min);<br>
+h) teste de caminhada de 6 minutos;<br>
+i) ecocardiograma associado a esforço ou procedimentos farmacológicos;<br>
 j) estudo radiológico do tórax, objetivando o coração, vasos e campos pulmonares, usando um
-mínimo de duas incidências;<br><br>
-k) cintilografia miocárdica, associada a teste ergométrico (Tálio, MIBI, Tecnécio);<br><br>
-l) cintilografia miocárdica associada a Dipiridamol e outros fármacos;<br><br>
-m) cinecoronarioventriculografia;<br><br>
-n) angiotomografia computadorizada;<br><br>
-o) tomografia coronariana computadorizada;<br><br>
-p) angio-ressonância magnética; e<br><br>
+mínimo de duas incidências;<br>
+k) cintilografia miocárdica, associada a teste ergométrico (Tálio, MIBI, Tecnécio);<br>
+l) cintilografia miocárdica associada a Dipiridamol e outros fármacos;<br
+m) cinecoronarioventriculografia;<br>
+n) angiotomografia computadorizada;<br>
+o) tomografia coronariana computadorizada;<br>
+p) angio-ressonância magnética; e<br>
 q) ressonância magnética cardíaca.<br><br>
 4.4.2. Nos indivíduos portadores de doenças cardíacas não identificáveis com os meios de
 diagnóstico, citados no item 4.4.1. Desta Legislação, deverão ser utilizados outros exames e métodos
-complementares que a medicina especializada venha a exigir.<br>
+complementares que a medicina especializada venha a exigir.<br><br>
 4.5. Os achados patológicos isolados em exames complementares por si só, não são suficientes
 para o enquadramento legal de cardiopatia grave, devendo, para tanto, ser realizada a análise do conjunto
 dos exames complementares pertinentes a cada tipo de cardiopatia e observada a correlação anátomo-
-funcional que caracteriza uma doença cardíaca incapacitante.<br>
+funcional que caracteriza uma doença cardíaca incapacitante.<br><br>
 #### 4.6. O quadro clínico, bem como os recursos complementares, com os sinais e sintomas que
 permitem estabelecer o diagnóstico de cardiopatia grave estão relacionados para as seguintes patologias
 cardíacas:
