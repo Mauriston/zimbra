@@ -41,13 +41,13 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 - d) **ausência de utilidade:** a perda da adaptabilidade redunda em prejuízo para o indivíduo e paraa sociedade (Beca Soto).
 
 1.3. As Juntas de Inspeção de Saúde e os AMP poderão identificar alienação mental no curso dequalquer enfermidade psiquiátrica desde que, em seu estágio evolutivo, estejam satisfeitas todas as condições a seguir discriminadas:
-- [x] a) seja enfermidade mental ou neuromental;
-- [x] b) seja grave persistente;
-- [x] c) seja refratária aos meios habituais de tratamento;
-- [x] d) provoque alteração completa ou considerável da personalidade;
-- [x] e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;
-- [x] f) torne o indivíduo total e permanentemente inválido para qualquer trabalho; e
-- [x] g) haja um nexo sintomático entre o quadro psíquico e a personalidade do indivíduo.
+- [x] **a) seja enfermidade mental ou neuromental;**
+- [x] **b) seja grave persistente;**
+- [x] **c) seja refratária aos meios habituais de tratamento;**
+- [x] **d) provoque alteração completa ou considerável da personalidade;**
+- [x] **e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;**
+- [x] **f) torne o indivíduo total e permanentemente inválido para qualquer trabalho;** e
+- [x] **g) haja um nexo sintomático entre o quadro psíquico e a personalidade do indivíduo.**
 
 1.4. São considerados meios habituais de tratamento:
 - a) psicoterapia;
@@ -59,10 +59,10 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 ### 2. Quadros clínicos que cursam com a alienação mental
 2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas
 alíneas "d", "e" e "f" do subitem 1.3:
-- a) demência;
-- b) esquizofrenia;
-- c) transtorno delirante persistente; e
-- d) retardo mental profundo ou grave.
+- **a) demência;**
+- **b) esquizofrenia;**
+- **c) transtorno delirante persistente;** e
+- **d) retardo mental profundo ou grave.**
 
 2.2. São excepcionalmente considerados casos de alienação:
 a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção
