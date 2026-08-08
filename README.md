@@ -150,15 +150,17 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 inspecionando portador de alienação mental.
 
 ## Cardiopatia Grave
-4. Conceituação
-4.1. Cardiopatia grave não é um diagnóstico clínico. A sua classificação se baseia nos aspectos
+### 4. Conceituação
+> 4.1. Cardiopatia grave não é um diagnóstico clínico. A sua classificação se baseia nos aspectos
 de gravidade das cardiopatias, colocados em perspectiva com a capacidade de exercer as funções
 laborativas e suas relações como prognóstico de longo prazo e a sobrevivência do inspecionado.
 São consideradas cardiopatias graves, as doenças cardiovasculares agudas ou crônicas que
 acarretam, de modo irreversível, em maior ou menor período de tempo, a perda da capacidade física e
 funcional do coração, ultrapassando os limites de eficiência dos mecanismos de compensação,
 determinando incapacidade permanente para todo e qualquer trabalho ou o risco de morte prematura,
-não obstante o tratamento clínico ou cirúrgico adequado. Desta forma, deve-se ter em mente a afirmativa
+não obstante o tratamento clínico ou cirúrgico adequado.
+
+Desta forma, deve-se ter em mente a afirmativa
 de Besser de que "É preciso não confundir gravidade de uma cardiopatia com Cardiopatia Grave, uma
 entidade médico pericial". Torna-se fundamental esta distinção, para que se possa efetivamente considerar
 um inspecionado portador de Cardiopatia Grave, levando-se em conta o conceito dinâmico de
