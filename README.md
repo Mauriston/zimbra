@@ -15,59 +15,22 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 | Alienação Mental         | Sim        | 
 | Cardiopatia Grave        | Sim        | 
 | Cegueira                 | Sim        | 
-| Espondilite Anquilosante | Sim        | 
+| Espondilite Anquilosante |         | 
 | Estados avançados do mal de Paget         | Sim        | 
 | Hanseníase        | Sim        | 
-| Doença de Parkinson                    | Sim | 
+| Doença de Parkinson                    |  | 
 | Nefropatia Grave                       | Sim | 
-| Neoplasia Maligna                      | Sim | 
+| Neoplasia Maligna                      |  | 
 | Paralisia Irreversível e Incapacitante | Sim |
-| Pênfigo                                | Sim |
-| SIDA/AIDS | Sim        | 
-| Tuberculose Ativa         | Sim        | 
-| Hepatopatia Grave         | Não |
-| Contaminação por radiação | Não | 
-| Esclerose Múltipla        | Sim |
-| Fibrose Cística           | Não |
+| Pênfigo                                |  |
+| SIDA/AIDS |         | 
+| Tuberculose Ativa         |         | 
+| Hepatopatia Grave         | Sim |
+| Contaminação por radiação |  | 
+| Esclerose Múltipla        |  |
+| Fibrose Cística           |  |
 
-Quadro sinóptico de patologias
-A  seguir,  é  demonstrado  o  quadro  sinóptico  das  doenças  graves  ou  potencialmente
-incapacitantes amparadas por diplomas legais:
-
-|     | Lei nº 6.880/80 (Estatuto dos | Lei nº 11.052/04 (Imposto |
-| --- | ----------------------------- | ------------------------- |
-Condição legal
-|                          | Militares) | de Renda) |
-| ------------------------ | ---------- | --------- |
-| Alienação Mental         | Sim        | Sim       |
-| Cardiopatia Grave        | Sim        | Sim       |
-| Cegueira                 | Sim        | Sim       |
-| Espondilite Anquilosante | Sim        | Sim       |
-Estados avançados do mal de Paget (osteíte
-|     | Não | Sim |
-| --- | --- | --- |
-deformante)
-| Hanseníase                             | Sim | Sim |
-| -------------------------------------- | --- | --- |
-| Doença de Parkinson                    | Sim | Sim |
-| Nefropatia Grave                       | Sim | Sim |
-| Neoplasia Maligna                      | Sim | Sim |
-| Paralisia Irreversível e Incapacitante | Sim | Sim |
-| Pênfigo                                | Sim | Não |
-Síndrome da Imunodeficiência Adquirida
-|     | Sim | Sim |
-| --- | --- | --- |
-(SIDA/AIDS)
-| Tuberculose Ativa         | Sim | Sim |
-| ------------------------- | --- | --- |
-| Hepatopatia Grave         | Não | Sim |
-| Contaminação por radiação | Não | Sim |
-| Esclerose Múltipla        | Sim | Sim |
-| Fibrose Cística           | Não | Sim |
-CAPÍTULO III
-DAS DOENÇAS ESPECIFICADAS EM LEI
-
-Alienação Mental
+## Alienação Mental
 1. Conceituação
 1.1. Conceitua-se como alienação mental todo caso de distúrbio mental ou neuromental grave e
 persistente, no qual, esgotados os meios habituais de tratamento, haja alteração completa ou considerável
