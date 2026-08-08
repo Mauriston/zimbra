@@ -182,58 +182,57 @@ interpretações enganosas.
 
 ### 4.2. São consideradas cardiopatias graves:
 a) as cardiopatias agudas, rápidas em sua evolução para óbito ou que se tornam crônicas,
-caracterizadas por perda da capacidade física e funcional do coração;<br>
+caracterizadas por perda da capacidade física e funcional do coração;<br><br>
 b) as cardiopatias crônicas, quando limitam, progressivamente, a capacidade física e funcional
 do coração (ultrapassando os limites de eficiência dos mecanismos de compensação), não obstante o
-tratamento clínico e/ou cirúrgico adequado;<br>
+tratamento clínico e/ou cirúrgico adequado;<br><br>
 c) as cardiopatias agudas ou crônicas que apresentam dependência total de suporte inotrópico
-farmacológico ou mecânico; e<br>
+farmacológico ou mecânico; e<br><br>
 d) a cardiopatia terminal: cardiopatia grave em que a expectativa de vida encontra-se
 extremamente reduzida, geralmente não responsiva à terapia farmacológica máxima ou a suporte
 hemodinâmico externo. Devido à severidade do quadro clínico ou à existência de comorbidades
 associadas, os portadores desta forma de cardiopatia não são candidatos à cirurgia para correção do
-distúrbio de base ou a transplante cardíaco.
-### .3. A limitação da capacidade física e funcional é definida, habitualmente, pela presença de
+distúrbio de base ou a transplante cardíaco.<br><br>
+### 4.3. A limitação da capacidade física e funcional é definida, habitualmente, pela presença de
 uma ou mais das seguintes síndromes:
-a) insuficiência cardíaca;<br>
-b) insuficiência coronariana;<br>
-c) arritmias complexas;<br>
-d) hipoxemia; e<br>
-e) manifestações de baixo débito cerebral, secundárias à cardiopatia.
-### 4.4. A avaliação da capacidade funcional do coração permite a distribuição dos indivíduos em
-classes ou graus assim descritos, de acordo com a Classificação da New York Heart Association (NYHA):
-a) Classe/Grau I: indivíduos portadores de doença cardíaca sem limitação da atividade física. A
+a) insuficiência cardíaca;<br><br>
+b) insuficiência coronariana;<br><br>
+c) arritmias complexas;<br><br>
+d) hipoxemia; e<br><br>
+e) manifestações de baixo débito cerebral, secundárias à cardiopatia.<br><br>
+### 4.4. A avaliação da capacidade funcional do coração permite a distribuição dos indivíduos em classes ou graus assim descritos, de acordo com a Classificação da New York Heart Association (NYHA):
+a) **Classe/Grau I:** indivíduos portadores de doença cardíaca sem limitação da atividade física. A
 atividade física normal não provoca sintomas de fadiga acentuada, nem palpitações, nem dispneias, nem
-angina de peito;<br>
-b) Classe/Grau II: indivíduos portadores de doença cardíaca com leve limitação da atividade
+angina de peito;<br><br>
+b) **Classe/Grau II:** indivíduos portadores de doença cardíaca com leve limitação da atividade
 física. Estes indivíduos sentem-se bem em repouso, porém os grandes esforços provocam fadiga, dispneia,
-palpitações ou angina de peito;<br>
-c) Classe/Grau III: indivíduos portadores de doença cardíaca com nítida limitação da atividade
+palpitações ou angina de peito;<br><br>
+c) **Classe/Grau III:** indivíduos portadores de doença cardíaca com nítida limitação da atividade
 física. Estes indivíduos sentem-se bem em repouso, embora acusem fadiga, dispneia, palpitações ou
-angina de peito quando efetuam pequenos esforços; e<br>
-d) Classe/Grau IV: indivíduos portadores de doença cardíaca que os impossibilita de qualquer
+angina de peito quando efetuam pequenos esforços; e<br><br>
+d) **Classe/Grau IV:** indivíduos portadores de doença cardíaca que os impossibilita de qualquer
 atividade física. Estes indivíduos, mesmo em repouso, apresentam dispneia, palpitações, fadiga ou angina
-de peito.
+de peito.<br><br>
 #### 4.4.1. Os meios de diagnóstico a serem empregados na avaliação da capacidade funcional do
 coração, são, entre outros:
-a) história clínica, com dados evolutivos da doença; história<br>
-b) exame clínico;<br>
-c) eletrocardiograma, em repouso;<br>
-d) eletrocardiografia dinâmica (Holter);<br>
-e) teste ergométrico;<br>
-f) ecocardiograma, em repouso;<br>
-g) ergoespirometria (vo2 pico<14ml/kg/min);<br>
-h) teste de caminhada de 6 minutos;<br>
-i) ecocardiograma associado a esforço ou procedimentos farmacológicos;<br>
+a) história clínica, com dados evolutivos da doença; história<br><br>
+b) exame clínico;<br><br>
+c) eletrocardiograma, em repouso;<br><br>
+d) eletrocardiografia dinâmica (Holter);<br><br>
+e) teste ergométrico;<br><br>
+f) ecocardiograma, em repouso;<br><br>
+g) ergoespirometria (vo2 pico<14ml/kg/min);<br><br>
+h) teste de caminhada de 6 minutos;<br><br>
+i) ecocardiograma associado a esforço ou procedimentos farmacológicos;<br><br>
 j) estudo radiológico do tórax, objetivando o coração, vasos e campos pulmonares, usando um
-mínimo de duas incidências;<br>
-k) cintilografia miocárdica, associada a teste ergométrico (Tálio, MIBI, Tecnécio);<br>
-l) cintilografia miocárdica associada a Dipiridamol e outros fármacos;<br>
-m) cinecoronarioventriculografia;<br>
-n) angiotomografia computadorizada;<br>
-o) tomografia coronariana computadorizada;<br>
-p) angio-ressonância magnética; e<br>
-q) ressonância magnética cardíaca.<br>
+mínimo de duas incidências;<br><br>
+k) cintilografia miocárdica, associada a teste ergométrico (Tálio, MIBI, Tecnécio);<br><br>
+l) cintilografia miocárdica associada a Dipiridamol e outros fármacos;<br><br>
+m) cinecoronarioventriculografia;<br><br>
+n) angiotomografia computadorizada;<br><br>
+o) tomografia coronariana computadorizada;<br><br>
+p) angio-ressonância magnética; e<br><br>
+q) ressonância magnética cardíaca.<br><br>
 4.4.2. Nos indivíduos portadores de doenças cardíacas não identificáveis com os meios de
 diagnóstico, citados no item 4.4.1. Desta Legislação, deverão ser utilizados outros exames e métodos
 complementares que a medicina especializada venha a exigir.<br>
