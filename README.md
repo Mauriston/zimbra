@@ -7,41 +7,16 @@ Exército, da Aeronáutica e do Hospital das Forças Armadas, bem como os padrõ
 Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 * **a) incapacidade:** é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em decorrência das repercussões clínicas de determinada patologia; e
 * **b) invalidez:** é a perda definitiva pelo inspecionado das condições mínimas de saúde para o exercício de qualquer atividade laboral formal, nos âmbitos civil ou militar.
-** Nos casos de inspecionados em atividade, pensionistas e dependentes, o enquadramento em invalidez obedece a parâmetros clínico-funcionais específicos para cada caso, comprovada a repercussão da doença sobre a capacidade laboral em caráter amplo e definitivo, seja por doença especificada em lei ou não. Para a avaliação de inspecionados inativos, já reformados por idade-limite ou por doença, a invalidez deverá ser avaliada pelo grau de limitação imposto pela doença especificada na realização das atividades rotineiras inerentes às suas faixas etárias.
-Não há critérios rígidos para enquadramento em invalidez, mesmo nos casos em que tal
-condição decorra de doenças especificadas em lei. Por outro lado, nos casos daquelas doenças em que
-por denominação ou definição, a incapacidade para todo e qualquer trabalho seja condição inerente, como
-nos casos de alienação mental, cardiopatia grave, cegueira, estados avançados da doença de Paget,
-nefropatia grave, paralisia irreversível e incapacitante e hepatopatia grave, o enquadramento em invalidez
-torna-se mandatório.
-Nos casos das doenças em que o enquadramento legal não está necessariamente atrelado à
-condição de invalidez, esta decorrerá da análise de todos os fatores médico-periciais pertinentes a cada
-caso em particular que subsidiem tal enquadramento, como a condição clínica do periciado, quer seja
-decorrente da própria doença ou de seus tratamentos; a reversibilidade ou não das repercussões da
-doença sobre a capacidade laboral ou atividades rotineiras; a progressão inexorável a despeito do
-
-tratamento, dentre outras, podendo as Juntas de Inspeção de Saúde e os AMP se valerem de todo e
-qualquer elemento preconizado pela literatura médica, como a utilização de escalas de avaliação clínica e
-de incapacidade.
-Tais fatores abrangem também a avaliação médico-pericial dos militares da ativa, quando do
-diagnóstico de doenças especificadas em lei consideradas passíveis de controle.
-Cada Força Singular deverá emitir normas e criar formatações de laudos no que diz respeito à
-validade do laudo pericial realizado em militar, dependente ou pensionista, em atendimento ao disposto
-no § 1º do art. 30 da Lei nº 9.250, de 26 de dezembro de 1995. Constatada invalidez ou a irreversibilidade
-do quadro clínico que subsidiou o enquadramento legal, deverá constar após o laudo a expressão "por
-tempo indeterminado".
-Nos casos de doenças previstas em lei passíveis de controle, as Juntas de Inspeção de Saúde e
-os  AMP  determinarão  o  período  de  validade  do  respectivo  enquadramento,  com  base  nos  dados  da
-literatura  especializada,  respeitadas  as  peculiaridades  de  cada  doença  e  a  individualidade  do
+  * Nos casos de inspecionados em atividade, pensionistas e dependentes, o enquadramento em invalidez obedece a parâmetros clínico-funcionais específicos para cada caso, comprovada a repercussão da doença sobre a capacidade laboral em caráter amplo e definitivo, seja por doença especificada em lei ou não.
+  * Para a avaliação de inspecionados inativos, já reformados por idade-limite ou por doença, a invalidez deverá ser avaliada pelo grau de limitação imposto pela doença especificada na realização das atividades rotineiras inerentes às suas faixas etárias.
+  * Não há critérios rígidos para enquadramento em invalidez, mesmo nos casos em que tal condição decorra de doenças especificadas em lei. Por outro lado, nos casos daquelas doenças em que por denominação ou definição, a incapacidade para todo e qualquer trabalho seja condição inerente, como nos casos de alienação mental, cardiopatia grave, cegueira, estados avançados da doença de Paget, nefropatia grave, paralisia irreversível e incapacitante e hepatopatia grave, o enquadramento em invalidez torna-se mandatório.
+  * Nos casos das doenças em que o enquadramento legal não está necessariamente atrelado à condição de invalidez, esta decorrerá da análise de todos os fatores médico-periciais pertinentes a cada caso em particular que subsidiem tal enquadramento, como a condição clínica do periciado, quer seja decorrente da própria doença ou de seus tratamentos; a reversibilidade ou não das repercussões da doença sobre a capacidade laboral ou atividades rotineiras; a progressão inexorável a despeito do tratamento, dentre outras, podendo as Juntas de Inspeção de Saúde e os AMP se valerem de todo e qualquer elemento preconizado pela literatura médica, como a utilização de escalas de avaliação clínica e de incapacidade.
+* Tais fatores abrangem também a avaliação médico-pericial dos militares da ativa, quando do diagnóstico de doenças especificadas em lei consideradas passíveis de controle.
+Cada Força Singular deverá emitir normas e criar formatações de laudos no que diz respeito à validade do laudo pericial realizado em militar, dependente ou pensionista, em atendimento ao disposto no § 1º do art. 30 da Lei nº 9.250, de 26 de dezembro de 1995. Constatada invalidez ou a irreversibilidade do quadro clínico que subsidiou o enquadramento legal, deverá constar após o laudo a expressão "por tempo indeterminado".
+* Nos casos de doenças previstas em lei passíveis de controle, as Juntas de Inspeção de Saúde e os  AMP  determinarão  o  período  de  validade  do  respectivo  enquadramento,  com  base  nos  dados  daliteratura  especializada,  respeitadas  as  peculiaridades  de  cada  doença  e  a  individualidade  do
 inspecionado.
-Não haverá inspeção de saúde para fins de manutenção da isenção do benefício do imposto de
-renda incidente nos proventos de reforma ou de pensão dela decorrentes.
-Revisão de laudo de incapacidade ou invalidez
-A revisão de laudo de incapacidade ou invalidez, em qualquer situação, somente será feita por
-meio de nova inspeção de saúde, pela mesma instância da Junta de Saúde na qual o laudo foi exarado, ou
-outra de instância superior, quando determinado por órgão de pessoal competente ou por solicitação de
-uma Junta de Inspeção de Saúde ou AMP, quando verificar insubsistência para a manutenção do laudo
-anteriormente exarado.
+* Não haverá inspeção de saúde para fins de manutenção da isenção do benefício do imposto de renda incidente nos proventos de reforma ou de pensão dela decorrentes.
+
 Quadro sinóptico de patologias
 A  seguir,  é  demonstrado  o  quadro  sinóptico  das  doenças  graves  ou  potencialmente
 incapacitantes amparadas por diplomas legais:
