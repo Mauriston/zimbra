@@ -15,7 +15,7 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 | Alienação Mental         | Sim        | 
 | Cardiopatia Grave        | Sim        | 
 | Cegueira                 | Sim        | 
-| Espondilite Anquilosante |         | 
+| Espondilite Anquilosante | [ ]        | 
 | Estados avançados do mal de Paget         | Sim        | 
 | Hanseníase        | Sim        | 
 | Doença de Parkinson                    |  | 
