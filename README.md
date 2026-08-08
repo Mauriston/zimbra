@@ -10,8 +10,8 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 #### Doenças que por definição causam incapacidade para todo e qualquer trabalho
   * Não há critérios rígidos para enquadramento em invalidez, mesmo nos casos em que tal condição decorra de doenças especificadas em lei. Por outro lado, nos casos daquelas doenças em que por denominação ou definição, a incapacidade para todo e qualquer trabalho seja condição inerente, como nos casos de alienação mental, cardiopatia grave, cegueira, estados avançados da doença de Paget, nefropatia grave, paralisia irreversível e incapacitante e hepatopatia grave, o enquadramento em invalidez torna-se mandatório.
 
-| Doenças Incapacitantes por Definição | 
-| ----------------------------- | 
+|     | Lei nº 6.880/80 (Estatuto dos | Lei nº 11.052/04 (Imposto |
+| --- | ----------------------------- | ------------------------- |
 
 Quadro sinóptico de patologias
 A  seguir,  é  demonstrado  o  quadro  sinóptico  das  doenças  graves  ou  potencialmente
