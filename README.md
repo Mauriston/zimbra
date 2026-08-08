@@ -114,7 +114,7 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 
 3.1.3. Não poderão ser emitidos laudos de alienação mental com base em diagnóstico de enfermidade psiquiátrica aguda.
 
-3.1.4. Constituem exemplos de laudos:
+#### 3.1.4. Constituem exemplos de laudos:**
 
 > a) "Esquizofrenia Paranóide, F.20.0 CID 10 (É caso de Alienação Mental)"
 
@@ -132,13 +132,11 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 
 > h) Transtorno de Personalidade Paranóica, F60.0 CID 10 (Não é caso de Alienação Mental).
 
-3.2. A alienação mental é condição que determina a invalidez.
-3.3. As Juntas de Inspeção de Saúde e os AMP, ao concluírem seus laudos com um diagnóstico
-subordinado ao conceito de alienação mental, deverão encaminhar o inspecionando ao órgão competente
-de sua Força Singular para condução da medida legal conveniente ao caso: medida de segurança,
-interdição, administração provisória e outros casos, na forma prevista em Lei.
-3.4. A medida legal superveniente à conclusão das Juntas de Inspeção de Saúde e dos AMP
-complementará, indispensavelmente, o processo administrativo de reforma (ou aposentadoria) do
+#### 3.2. A alienação mental é condição que determina a invalidez.
+
+#### 3.3. As Juntas de Inspeção de Saúde e os AMP, ao concluírem seus laudos com um diagnóstico subordinado ao conceito de alienação mental, deverão encaminhar o inspecionando ao órgão competente de sua Força Singular para condução da medida legal conveniente ao caso: medida de segurança, interdição, administração provisória e outros casos, na forma prevista em Lei.
+
+3.4. A medida legal superveniente à conclusão das Juntas de Inspeção de Saúde e dos AMP complementará, indispensavelmente, o processo administrativo de reforma (ou aposentadoria) do
 inspecionando portador de alienação mental.
 
 ## Cardiopatia Grave
