@@ -5,16 +5,9 @@ Exército, da Aeronáutica e do Hospital das Forças Armadas, bem como os padrõ
 ## DAS CONSIDERAÇÕES PRELIMINARES
 ### Conceitos relevantes
 Para o entendimento desta legislação, são relevantes os seguintes conceitos:
-* **a) incapacidade:** é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em
-decorrência das repercussões clínicas de determinada patologia; e
-* **b) invalidez:** é a perda definitiva pelo inspecionado das condições mínimas de saúde para o
-exercício de qualquer atividade laboral formal, nos âmbitos civil ou militar. Nos casos de inspecionados em
-atividade, pensionistas e dependentes, o enquadramento em invalidez obedece a parâmetros clínico-
-funcionais específicos para cada caso, comprovada a repercussão da doença sobre a capacidade laboral
-em caráter amplo e definitivo, seja por doença especificada em lei ou não. Para a avaliação de
-inspecionados inativos, já reformados por idade-limite ou por doença, a invalidez deverá ser avaliada pelo
-grau de limitação imposto pela doença especificada na realização das atividades rotineiras inerentes às
-suas faixas etárias.
+* **a) incapacidade:** é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em decorrência das repercussões clínicas de determinada patologia; e
+* **b) invalidez:** é a perda definitiva pelo inspecionado das condições mínimas de saúde para o exercício de qualquer atividade laboral formal, nos âmbitos civil ou militar.
+** Nos casos de inspecionados em atividade, pensionistas e dependentes, o enquadramento em invalidez obedece a parâmetros clínico-funcionais específicos para cada caso, comprovada a repercussão da doença sobre a capacidade laboral em caráter amplo e definitivo, seja por doença especificada em lei ou não. Para a avaliação de inspecionados inativos, já reformados por idade-limite ou por doença, a invalidez deverá ser avaliada pelo grau de limitação imposto pela doença especificada na realização das atividades rotineiras inerentes às suas faixas etárias.
 Não há critérios rígidos para enquadramento em invalidez, mesmo nos casos em que tal
 condição decorra de doenças especificadas em lei. Por outro lado, nos casos daquelas doenças em que
 por denominação ou definição, a incapacidade para todo e qualquer trabalho seja condição inerente, como
