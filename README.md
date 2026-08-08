@@ -91,8 +91,7 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | QUADRO CLÍNICO | CRITÉRIOS PARA ENQUADRAMENTO |
 | :---- | :---- |
 | demência | provoque alteração completa ou considerável da personalidade 
-- comprometa gravemente os juízos de valor e realidade
-- com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
+comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
 | esquizofrenia | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
 | transtorno delirante persistente | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
 | retardo mental profundo ou grave | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
