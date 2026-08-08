@@ -3,7 +3,6 @@
 Exército, da Aeronáutica e do Hospital das Forças Armadas, bem como os padrões e critérios para a concessão de benefícios aos seus pensionistas, dependentes ou beneficiários.
 
 ## DAS CONSIDERAÇÕES PRELIMINARES
-
 ### Conceitos relevantes
 Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 a) incapacidade: é a perda temporária ou definitiva pelo inspecionado da capacidade laboral em
