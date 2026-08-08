@@ -134,19 +134,12 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 #### 3.1.4. Constituem exemplos de laudos:**
 
 > a) "Esquizofrenia Paranóide, F.20.0 CID 10 (É caso de Alienação Mental)"
-
 > b) "Demência na doença de Alzheimer, F00.1 CID 10 (É caso de Alienação mental)"
-
 > c) "Transtorno depressivo recorrente grave com sintomas psicóticos - estado cronificado e resistente ao tratamento, F33.3 CID 10 (É caso de Alienação Mental)";
-
 > d) "Transtorno mental e comportamental devido ao uso de álcool - estado psicótico, com comprometimento grave e irreversível de personalidade e refratariedade ao tratamento, F10.7 CID 10 (É caso de Alienação Mental)";
-
 > e) "Retardo mental moderado - estado de atraso acentuado no desenvolvimento na infância, mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica, F71 CID 10 (É caso de Alienação Mental)";
-
 > f) "Síndrome amnésica orgânica não induzida pelo álcool, F04 CID 10 (Não é caso de Alienação Mental)";
-
 > g) "Amnésia dissociativa, F44.0 CID 10 (Não é caso de Alienação Mental)"; e
-
 > h) Transtorno de Personalidade Paranóica, F60.0 CID 10 (Não é caso de Alienação Mental).
 
 #### 3.2. A alienação mental é condição que determina a invalidez.
