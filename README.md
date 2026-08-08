@@ -1,28 +1,7 @@
-DIÁRIO OFICIAL DA UNIÃO
-Publicado em: 31/08/2021 | Edição: 165 | Seção: 1 | Página: 13
-Órgão: Ministério da Defesa/Gabinete do Ministro
-PORTARIA GM-MD Nº 3.551, DE 26 DE AGOSTO DE 2021
-Aprova as normas para a avaliação pericial dos portadores de
-doenças especificadas em lei pelas Juntas de Inspeção de
-Saúde e pelos Agentes Médico-Periciais da Marinha, do
-Exército, da Aeronáutica e do Hospital das Forças Armadas, bem
-como os padrões e critérios para a concessão de benefícios aos
-seus pensionistas, dependentes ou beneficiários.
-O MINISTRO DE ESTADO DA DEFESA, no uso das atribuições que lhe confere o art. 87, parágrafo
-único, inciso II da Constituição, tendo em vista o disposto no art. 43, inciso XII, do Anexo I do Decreto nº
-9.570, de 20 de novembro de 2018, e considerando o que consta do Processo Administrativo nº
-60550.003348/2021-97, resolve:
-Art. 1º Ficam aprovadas as normas para avaliação pericial dos portadores de doenças
-especificadas em lei pelas Juntas de Inspeção de Saúde e pelos Agentes Médico-Periciais (AMP) da
-Marinha, do Exército, da Aeronáutica e do Hospital das Forças Armadas (HFA), bem como os padrões e
-critérios para a concessão de benefícios aos seus pensionistas, dependentes ou beneficiários, na forma do
-Anexo a esta Portaria.
-Art. 2º Ficam revogadas:
-I - a Portaria Normativa nº 47/GM-MD, de 21 de julho de2016, publicada no Diário Oficial da
-União nº 147, Seção 1, página 8, de 2 de agosto de 2016; e
-II - a Portaria Normativa nº 93/GM-MD, de 29 de outubro de 2020, publicada no Diário Oficial da
-União nº 217, Seção 1, página 17, de 13 de novembro de 2020.
-Art. 3º Esta Portaria entra em vigor em 1º de outubro de 2021.
+# PORTARIA GM-MD Nº 3.551, DE 26 DE AGOSTO DE 2021
+> Aprova as normas para a avaliação pericial dos portadores de doenças especificadas em lei pelas Juntas de Inspeção de Saúde e pelos Agentes Médico-Periciais da Marinha, do
+Exército, da Aeronáutica e do Hospital das Forças Armadas, bem como os padrões e critérios para a concessão de benefícios aos seus pensionistas, dependentes ou beneficiários.
+
 WALTER SOUZA BRAGA NETTO
 ANEXO
 NORMAS PARA AVALIAÇÃO PERICIAL DOS PORTADORES DE DOENÇAS ESPECIFICADAS EM LEI
