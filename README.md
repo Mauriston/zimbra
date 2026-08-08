@@ -99,7 +99,7 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | transtorno afetivo bipolar grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtorno depressivo recorrente grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtornos mentais e comportamentais devido ao uso de substância psicoativa | <ul><li>presença de sintomas psicóticos<br></li><li>comprometimento grave e irreversível de personalidade</li><li>refratariedade ao tratamento</li></ul> | 
-| casos graves de epilepsia | predominância de sintomas de demenciação esistência terapêutica ou elevada frequência de surtos psicóticos |
+| casos graves de epilepsia | predominância de sintomas de demenciação predominância de sintomas de demenciação ou elevada frequência de surtos psicóticos | <ul><li>predominância de sintomas de demenciação<br></li><li>refratariedade ao tratamento</li><li>elevada frequência de surto psicóticos</li></ul>
 | autismo infantil ou atípico | o próprio diagnóstico |
 | síndrome de Rett. | o próprio diagnóstico |
 
