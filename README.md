@@ -42,7 +42,7 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 
 1.3. As Juntas de Inspeção de Saúde e os AMP poderão identificar alienação mental no curso dequalquer enfermidade psiquiátrica desde que, em seu estágio evolutivo, estejam satisfeitas todas as condições a seguir discriminadas:
 > - [x] **a) seja enfermidade mental ou neuromental;**
-- [x] **b) seja grave persistente;**
+> - [x] **b) seja grave persistente;**
 - [x] **c) seja refratária aos meios habituais de tratamento;**
 - [x] **d) provoque alteração completa ou considerável da personalidade;**
 - [x] **e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;**
