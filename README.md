@@ -96,7 +96,7 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | retardo mental profundo ou grave | provoque alteração completa ou considerável da personalidade comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo torne o indivíduo total e permanentemente inválido para qualquer trabalho |
 | transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral | grave cronificado resistente ao tratamento |
 | retardo mental moderado | atraso acentuado no desenvolvimento na infância; e mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica; |
-| transtorno afetivo bipolar grave com sintomas psicóticos | cronificado resistente ao tratamento |
+| transtorno afetivo bipolar grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
 | transtorno depressivo recorrente grave com sintomas psicóticos | cronificado resistente ao tratamento |
 | transtornos mentais e comportamentais devido ao uso de substância psicoativa | presença de sintomas psicóticos comprometimento grave e irreversível de personalidade refratariedade ao tratamento |
 | casos graves de epilepsia | predominância de sintomas de demenciação esistência terapêutica ou elevada frequência de surtos psicóticos |
