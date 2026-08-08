@@ -59,30 +59,30 @@ Para o entendimento desta legislação, são relevantes os seguintes conceitos:
 ### 2. Quadros clínicos que cursam com a alienação mental
 2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas
 alíneas "d", "e" e "f" do subitem 1.3:
-> - **a) demência;**
-> - **b) esquizofrenia;**
-> - **c) transtorno delirante persistente;** e
-> - **d) retardo mental profundo ou grave.**
+- **a) demência;**
+- **b) esquizofrenia;**
+- **c) transtorno delirante persistente;** e
+- **d) retardo mental profundo ou grave.**
 
 2.2. São excepcionalmente considerados casos de alienação:
 - **a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção
 cerebral e que satisfizer as três condições a seguir citadas:**
-  > - seja grave;
-  > - cronificado; e
-  > - resistente ao tratamento;
+  - seja grave;
+  - cronificado; e
+  - resistente ao tratamento;
 - **b) retardo mental moderado e que satisfizer as três condições a seguir citadas:**
-  > - atraso acentuado no desenvolvimento na infância; e
-  > - mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
+  - atraso acentuado no desenvolvimento na infância; e
+  - mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
 - c) **transtorno afetivo bipolar grave com sintomas psicóticos ou transtorno depressivo recorrente grave com sintomas psicóticos e que satisfizerem as duas condições a seguir citadas:**
-  > - sejam cronificados; e
-  > - resistentes ao tratamento;
+  - sejam cronificados; e
+  - resistentes ao tratamento;
 - **d) transtornos mentais e comportamentais devido ao uso de substância psicoativa e que satisfizerem as três condições a seguir citadas:**
-  > - presença de sintomas psicóticos;
-  > - comprometimento grave e irreversível de personalidade; e
-  > - refratariedade ao tratamento;
+  - presença de sintomas psicóticos;
+  - comprometimento grave e irreversível de personalidade; e
+  - refratariedade ao tratamento;
 - **e) casos graves de epilepsia e que satisfizerem a uma das condições a seguir citadas:**
-  > - predominância de sintomas de demenciação;
-  > - resistência terapêutica ou elevada frequência de surtos psicóticos;
+  - predominância de sintomas de demenciação;
+  - resistência terapêutica ou elevada frequência de surtos psicóticos;
 - **f) autismo infantil ou atípico**
 - **g) Síndrome de Rett.**
 
