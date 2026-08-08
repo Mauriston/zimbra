@@ -97,8 +97,8 @@ cerebral e que satisfizer as três condições a seguir citadas:**
 | transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral | <ul><li>grave<br></li><li>cronificado</li><li>resistente ao tratamento</li></ul> |
 | retardo mental moderado | <ul><li>atraso acentuado no desenvolvimento na infância<br></li><li>mínimo grau de independência quanto aos cuidados pessoais</li><li>mínimo grau de comunicação social e habilidade acadêmica</li></ul> |  
 | transtorno afetivo bipolar grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
-| transtorno depressivo recorrente grave com sintomas psicóticos | cronificado resistente ao tratamento |
-| transtornos mentais e comportamentais devido ao uso de substância psicoativa | presença de sintomas psicóticos comprometimento grave e irreversível de personalidade refratariedade ao tratamento |
+| transtorno depressivo recorrente grave com sintomas psicóticos | <ul><li>Cronificado<br></li><li>Resistente ao tratamento</li></ul> |
+| transtornos mentais e comportamentais devido ao uso de substância psicoativa | <ul><li>presença de sintomas psicóticos<br></li><li>comprometimento grave e irreversível de personalidade</li><li>refratariedade ao tratamento</li></ul> | 
 | casos graves de epilepsia | predominância de sintomas de demenciação esistência terapêutica ou elevada frequência de surtos psicóticos |
 | autismo infantil ou atípico | o próprio diagnóstico |
 | síndrome de Rett. | o próprio diagnóstico |
