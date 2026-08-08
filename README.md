@@ -181,8 +181,8 @@ alegações emanadas dos pacientes, sem o corroborativo complementar, tão sujei
 interpretações enganosas.
 
 ### 4.2. São consideradas cardiopatias graves:
-a) as cardiopatias agudas, rápidas em sua evolução para óbito ou que se tornam crônicas,
-caracterizadas por perda da capacidade física e funcional do coração;
+  a) as cardiopatias agudas, rápidas em sua evolução para óbito ou que se tornam crônicas,
+caracterizadas por perda da capacidade física e funcional do coração;<br>
 b) as cardiopatias crônicas, quando limitam, progressivamente, a capacidade física e funcional
 do coração (ultrapassando os limites de eficiência dos mecanismos de compensação), não obstante o
 tratamento clínico e/ou cirúrgico adequado;
