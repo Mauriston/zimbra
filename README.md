@@ -71,40 +71,35 @@ cerebral e que satisfizer as três condições a seguir citadas:**
   > - cronificado; e
   > - resistente ao tratamento;
 - **b) retardo mental moderado e que satisfizer as três condições a seguir citadas:**
->  - atraso acentuado no desenvolvimento na infância; e
->  - mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
+  > - atraso acentuado no desenvolvimento na infância; e
+  > - mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
 - c) **transtorno afetivo bipolar grave com sintomas psicóticos ou transtorno depressivo recorrente grave com sintomas psicóticos e que satisfizerem as duas condições a seguir citadas:**
->  - sejam cronificados; e
->  - resistentes ao tratamento;
+  > - sejam cronificados; e
+  > - resistentes ao tratamento;
 - **d) transtornos mentais e comportamentais devido ao uso de substância psicoativa e que satisfizerem as três condições a seguir citadas:**
->  - presença de sintomas psicóticos;
->  - comprometimento grave e irreversível de personalidade; e
->  - refratariedade ao tratamento;
+  > - presença de sintomas psicóticos;
+  > - comprometimento grave e irreversível de personalidade; e
+  > - refratariedade ao tratamento;
 - **e) casos graves de epilepsia e que satisfizerem a uma das condições a seguir citadas:**
->  - predominância de sintomas de demenciação;
->  - resistência terapêutica ou elevada frequência de surtos psicóticos;
+  > - predominância de sintomas de demenciação;
+  > - resistência terapêutica ou elevada frequência de surtos psicóticos;
 - **f) autismo infantil ou atípico**
 - **g) Síndrome de Rett.**
 
 2.3. Não são casos de alienação mental:
-a) síndrome amnésica orgânica;
-b) transtornos esquizotípico, esquizoafetivo ou psicótico agudo e transitório;
-c) transtornos afetivos, exceto os que satisfizerem as condições apresentadas no subitem 2.2;
-d) delirium;
-e) transtornos mentais e comportamentais devido ao uso de substância psicoativa, exceto os
-que satisfizerem as condições apresentadas no subitem 2.2;
-f) transtornos fóbico, ansioso, obsessivo-compulsivo, dissociativo, somatoforme, relacionado ao
-estresse ou de adaptação;
-g) síndromes comportamentais associadas a disfunções fisiológicas e a fatores físicos;
-h) transtornos da personalidade e do comportamento do adulto, exceto os devidos a doença, a
-lesão ou a disfunção cerebral e que satisfizerem as condições apresentadas no subitem 2.2;
-i) transtornos dos hábitos e dos impulsos, de preferência sexual ou associados ao
-desenvolvimento sexual e à sua orientação;
-j) retardo mental leve;
-k) transtornos do desenvolvimento psicológico, exceto autismo e Síndrome de Rett; e
-l) transtornos hipercinéticos ou de conduta.
-2.3.1. Os casos excepcionalmente graves e persistentes de estados psicopatológicos, citados
-nas letras "a", "b" e "c" do item 2.3. desta Legislação podem, entretanto, causar invalidez.
+- a) síndrome amnésica orgânica;
+- b) transtornos esquizotípico, esquizoafetivo ou psicótico agudo e transitório;
+- c) transtornos afetivos, exceto os que satisfizerem as condições apresentadas no subitem 2.2;
+- d) delirium;
+- e) transtornos mentais e comportamentais devido ao uso de substância psicoativa, exceto osque satisfizerem as condições apresentadas no subitem 2.2;
+- f) transtornos fóbico, ansioso, obsessivo-compulsivo, dissociativo, somatoforme, relacionado aoestresse ou de adaptação;
+- g) síndromes comportamentais associadas a disfunções fisiológicas e a fatores físicos;
+- h) transtornos da personalidade e do comportamento do adulto, exceto os devidos a doença, a lesão ou a disfunção cerebral e que satisfizerem as condições apresentadas no subitem 2.2;
+- i) transtornos dos hábitos e dos impulsos, de preferência sexual ou associados ao desenvolvimento sexual e à sua orientação;
+- j) retardo mental leve;
+- k) transtornos do desenvolvimento psicológico, exceto autismo e Síndrome de Rett; e
+- l) transtornos hipercinéticos ou de conduta.
+> 2.3.1. Os casos excepcionalmente graves e persistentes de estados psicopatológicos, citados nas letras "a", "b" e "c" do item 2.3. desta Legislação podem, entretanto, causar invalidez.
 
 ### 3. Normas de Procedimento das Juntas de Inspeção de Saúde e dos AMP - Alienação Mental
 3.1. As Juntas de Inspeção de Saúde e os AMP, para maior clareza e definição imediata da
