@@ -160,7 +160,7 @@ funcional do coração, ultrapassando os limites de eficiência dos mecanismos d
 determinando incapacidade permanente para todo e qualquer trabalho ou o risco de morte prematura,
 não obstante o tratamento clínico ou cirúrgico adequado.
 
-Desta forma, deve-se ter em mente a afirmativa
+> Desta forma, deve-se ter em mente a afirmativa
 de Besser de que "É preciso não confundir gravidade de uma cardiopatia com Cardiopatia Grave, uma
 entidade médico pericial". Torna-se fundamental esta distinção, para que se possa efetivamente considerar
 um inspecionado portador de Cardiopatia Grave, levando-se em conta o conceito dinâmico de
@@ -171,7 +171,7 @@ alteram radicalmente a história natural da doença para melhor, modificando sua
 consequentemente, a categoria de gravidade no momento da avaliação pericial. Esta deve ser pontual e
 baseada em evidências clínicas e em dados fornecidos por avaliações funcionais cardiológicas recentes.
 
-Por outro lado, nunca se deve concluir, de antemão, que pacientes submetidos a quaisquer das
+> Por outro lado, nunca se deve concluir, de antemão, que pacientes submetidos a quaisquer das
 intervenções mencionadas têm a condição médico pericial de Cardiopatia Grave como erroneamente
 interpretado por muitos. Considera-se um inspecionado como portador de Cardiopatia Grave, quando
 existir uma doença cardíaca que acarrete o total e definitivo impedimento das condições laborativas,
@@ -179,7 +179,8 @@ existindo, implicitamente, uma expectativa de vida reduzida, baseando-se o avali
 no diagnóstico da cardiopatia, evitando-se as conclusões baseadas em impressões subjetivas ou
 alegações emanadas dos pacientes, sem o corroborativo complementar, tão sujeitas a erros ou
 interpretações enganosas.
-4.2. São consideradas cardiopatias graves:
+
+### 4.2. São consideradas cardiopatias graves:
 a) as cardiopatias agudas, rápidas em sua evolução para óbito ou que se tornam crônicas,
 caracterizadas por perda da capacidade física e funcional do coração;
 b) as cardiopatias crônicas, quando limitam, progressivamente, a capacidade física e funcional
