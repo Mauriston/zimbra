@@ -193,8 +193,7 @@ extremamente reduzida, geralmente não responsiva à terapia farmacológica máx
 hemodinâmico externo. Devido à severidade do quadro clínico ou à existência de comorbidades
 associadas, os portadores desta forma de cardiopatia não são candidatos à cirurgia para correção do
 distúrbio de base ou a transplante cardíaco.<br><br>
-### 4.3. A limitação da capacidade física e funcional é definida, habitualmente, pela presença de
-uma ou mais das seguintes síndromes:
+### 4.3. A limitação da capacidade física e funcional é definida, habitualmente, pela presença deuma ou mais das seguintes síndromes:
 a) insuficiência cardíaca;<br><br>
 b) insuficiência coronariana;<br><br>
 c) arritmias complexas;<br><br>
@@ -266,14 +265,15 @@ diferentes cardiopatias.
 As cardiopatias discriminadas abaixo podem manifestar-se de diversas formas clínicas e, de um
 modo geral, são avaliadas do ponto de vista pericial posteriormente aos eventos agudos, quando já foram
 instituídas medidas terapêuticas pertinentes.
-5.1. Cardiopatia Isquêmica
-5.1.1. Forma aguda (IAM ou Angina instável)
+
+### 5.1. Cardiopatia Isquêmica
+#### 5.1.1. Forma aguda (IAM ou Angina instável)
 a) Síndromes coronarianas agudas sem supradesnível de ST:
-1) baixo débito cardíaco;
-2) insuficiência cardíaca aguda;
-3) arritmia ventricular maligna; e
-4) disfunção ventricular mecânica;
-Os tópicos acima em paciente já revascularizado, sem condições de submeter-se à
+1. baixo débito cardíaco;
+2. insuficiência cardíaca aguda;
+3. arritmia ventricular maligna; e
+4. disfunção ventricular mecânica;
+5. Os tópicos acima em paciente já revascularizado, sem condições de submeter-se à
 revascularização cirúrgica ou percutânea.
 b) Síndromes coronarianas agudas com supradesnível de ST ou BRE novo:
 1) choque cardiogênico (Killip IV);
