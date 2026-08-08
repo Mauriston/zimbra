@@ -268,14 +268,15 @@ instituídas medidas terapêuticas pertinentes.
 
 ### 5.1. Cardiopatia Isquêmica
 #### 5.1.1. Forma aguda (IAM ou Angina instável)
-a) Síndromes coronarianas agudas sem supradesnível de ST:
+
+**a) Síndromes coronarianas agudas sem supradesnível de ST:**
 1. baixo débito cardíaco;
 2. insuficiência cardíaca aguda;
 3. arritmia ventricular maligna; e
 4. disfunção ventricular mecânica;
-5. Os tópicos acima em paciente já revascularizado, sem condições de submeter-se à
-revascularização cirúrgica ou percutânea.
-b) Síndromes coronarianas agudas com supradesnível de ST ou BRE novo:
+5. Os tópicos acima em paciente já revascularizado, sem condições de submeter-se à revascularização cirúrgica ou percutânea.
+
+**b) Síndromes coronarianas agudas com supradesnível de ST ou BRE novo:**
 1) choque cardiogênico (Killip IV);
 2) insuficiência cardíaca aguda (Killip II ou III);
 3) arritmia ventricular maligna;
