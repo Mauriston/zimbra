@@ -181,81 +181,80 @@ alegações emanadas dos pacientes, sem o corroborativo complementar, tão sujei
 interpretações enganosas.
 
 ### 4.2. São consideradas cardiopatias graves:
-  a) as cardiopatias agudas, rápidas em sua evolução para óbito ou que se tornam crônicas,
+a) as cardiopatias agudas, rápidas em sua evolução para óbito ou que se tornam crônicas,
 caracterizadas por perda da capacidade física e funcional do coração;<br>
 b) as cardiopatias crônicas, quando limitam, progressivamente, a capacidade física e funcional
 do coração (ultrapassando os limites de eficiência dos mecanismos de compensação), não obstante o
-tratamento clínico e/ou cirúrgico adequado;
+tratamento clínico e/ou cirúrgico adequado;<br>
 c) as cardiopatias agudas ou crônicas que apresentam dependência total de suporte inotrópico
-farmacológico ou mecânico; e
+farmacológico ou mecânico; e<br>
 d) a cardiopatia terminal: cardiopatia grave em que a expectativa de vida encontra-se
 extremamente reduzida, geralmente não responsiva à terapia farmacológica máxima ou a suporte
 hemodinâmico externo. Devido à severidade do quadro clínico ou à existência de comorbidades
 associadas, os portadores desta forma de cardiopatia não são candidatos à cirurgia para correção do
 distúrbio de base ou a transplante cardíaco.
-4.3. A limitação da capacidade física e funcional é definida, habitualmente, pela presença de
+### .3. A limitação da capacidade física e funcional é definida, habitualmente, pela presença de
 uma ou mais das seguintes síndromes:
-a) insuficiência cardíaca;
-b) insuficiência coronariana;
-c) arritmias complexas;
-d) hipoxemia; e
+a) insuficiência cardíaca;<br>
+b) insuficiência coronariana;<br>
+c) arritmias complexas;<br>
+d) hipoxemia; e<br>
 e) manifestações de baixo débito cerebral, secundárias à cardiopatia.
-4.4. A avaliação da capacidade funcional do coração permite a distribuição dos indivíduos em
+### 4.4. A avaliação da capacidade funcional do coração permite a distribuição dos indivíduos em
 classes ou graus assim descritos, de acordo com a Classificação da New York Heart Association (NYHA):
 a) Classe/Grau I: indivíduos portadores de doença cardíaca sem limitação da atividade física. A
 atividade física normal não provoca sintomas de fadiga acentuada, nem palpitações, nem dispneias, nem
-angina de peito;
+angina de peito;<br>
 b) Classe/Grau II: indivíduos portadores de doença cardíaca com leve limitação da atividade
 física. Estes indivíduos sentem-se bem em repouso, porém os grandes esforços provocam fadiga, dispneia,
-palpitações ou angina de peito;
+palpitações ou angina de peito;<br>
 c) Classe/Grau III: indivíduos portadores de doença cardíaca com nítida limitação da atividade
 física. Estes indivíduos sentem-se bem em repouso, embora acusem fadiga, dispneia, palpitações ou
-angina de peito quando efetuam pequenos esforços; e
+angina de peito quando efetuam pequenos esforços; e<br>
 d) Classe/Grau IV: indivíduos portadores de doença cardíaca que os impossibilita de qualquer
 atividade física. Estes indivíduos, mesmo em repouso, apresentam dispneia, palpitações, fadiga ou angina
 de peito.
-4.4.1. Os meios de diagnóstico a serem empregados na avaliação da capacidade funcional do
+#### 4.4.1. Os meios de diagnóstico a serem empregados na avaliação da capacidade funcional do
 coração, são, entre outros:
-a) história clínica, com dados evolutivos da doença; história
-b) exame clínico;
-c) eletrocardiograma, em repouso;
-d) eletrocardiografia dinâmica (Holter);
-
-e) teste ergométrico;
-f) ecocardiograma, em repouso;
-g) ergoespirometria (vo2 pico<14ml/kg/min);
-h) teste de caminhada de 6 minutos;
-i) ecocardiograma associado a esforço ou procedimentos farmacológicos;
+a) história clínica, com dados evolutivos da doença; história<br>
+b) exame clínico;<br>
+c) eletrocardiograma, em repouso;<br>
+d) eletrocardiografia dinâmica (Holter);<br>
+e) teste ergométrico;<br>
+f) ecocardiograma, em repouso;<br>
+g) ergoespirometria (vo2 pico<14ml/kg/min);<br>
+h) teste de caminhada de 6 minutos;<br>
+i) ecocardiograma associado a esforço ou procedimentos farmacológicos;<br>
 j) estudo radiológico do tórax, objetivando o coração, vasos e campos pulmonares, usando um
-mínimo de duas incidências;
-k) cintilografia miocárdica, associada a teste ergométrico (Tálio, MIBI, Tecnécio);
-l) cintilografia miocárdica associada a Dipiridamol e outros fármacos;
-m) cinecoronarioventriculografia;
-n) angiotomografia computadorizada;
-o) tomografia coronariana computadorizada;
-p) angio-ressonância magnética; e
-q) ressonância magnética cardíaca.
+mínimo de duas incidências;<br>
+k) cintilografia miocárdica, associada a teste ergométrico (Tálio, MIBI, Tecnécio);<br>
+l) cintilografia miocárdica associada a Dipiridamol e outros fármacos;<br>
+m) cinecoronarioventriculografia;<br>
+n) angiotomografia computadorizada;<br>
+o) tomografia coronariana computadorizada;<br>
+p) angio-ressonância magnética; e<br>
+q) ressonância magnética cardíaca.<br>
 4.4.2. Nos indivíduos portadores de doenças cardíacas não identificáveis com os meios de
 diagnóstico, citados no item 4.4.1. Desta Legislação, deverão ser utilizados outros exames e métodos
-complementares que a medicina especializada venha a exigir.
+complementares que a medicina especializada venha a exigir.<br>
 4.5. Os achados patológicos isolados em exames complementares por si só, não são suficientes
 para o enquadramento legal de cardiopatia grave, devendo, para tanto, ser realizada a análise do conjunto
 dos exames complementares pertinentes a cada tipo de cardiopatia e observada a correlação anátomo-
-funcional que caracteriza uma doença cardíaca incapacitante.
-4.6. O quadro clínico, bem como os recursos complementares, com os sinais e sintomas que
+funcional que caracteriza uma doença cardíaca incapacitante.<br>
+#### 4.6. O quadro clínico, bem como os recursos complementares, com os sinais e sintomas que
 permitem estabelecer o diagnóstico de cardiopatia grave estão relacionados para as seguintes patologias
 cardíacas:
-a) cardiopatia isquêmica;
-b) cardiopatia hipertensiva;
-c) miocardiopatias;
-d) arritmias cardíacas;
-e) "cor pulmonale" crônico;
-f) cardiopatias congênitas;
-g) valvopatias;
-h) pericardiopatias; e
-i) aortopatias.
-5. Afecções descritas capazes de causar cardiopatia grave
-São descritas diversas afecções capazes de caracterizar cardiopatia grave, sendo, no entanto,
+a) cardiopatia isquêmica;<br>
+b) cardiopatia hipertensiva;<br>
+c) miocardiopatias;<br>
+d) arritmias cardíacas;<br>
+e) "cor pulmonale" crônico;<br>
+f) cardiopatias congênitas;<br>
+g) valvopatias;<br>
+h) pericardiopatias; e<br>
+i) aortopatias.<br>
+### 5. Afecções descritas capazes de causar cardiopatia grave
+> São descritas diversas afecções capazes de caracterizar cardiopatia grave, sendo, no entanto,
 necessário frisar a importância da observação do preconizado no item 4.4., devendo ser avaliados de forma
 criteriosa, a condição clínica do inspecionado, os exames complementares, os procedimentos terapêuticos
 instituídos, observando-se a correlação anatomofuncional e respeitando-se os prazos preconizados para
