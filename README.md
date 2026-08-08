@@ -65,12 +65,12 @@ alíneas "d", "e" e "f" do subitem 1.3:
 > - **d) retardo mental profundo ou grave.**
 
 2.2. São excepcionalmente considerados casos de alienação:
-- **a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção
+> - **a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção
 cerebral e que satisfizer as três condições a seguir citadas:**
   - seja grave;
   - cronificado; e
   - resistente ao tratamento;
-- **b) retardo mental moderado e que satisfizer as três condições a seguir citadas:**
+> - **b) retardo mental moderado e que satisfizer as três condições a seguir citadas:**
   - atraso acentuado no desenvolvimento na infância; e
   - mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
 - c) **transtorno afetivo bipolar grave com sintomas psicóticos ou transtorno depressivo recorrente grave com sintomas psicóticos e que satisfizerem as duas condições a seguir citadas:**
