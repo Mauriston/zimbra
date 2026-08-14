@@ -162,7 +162,7 @@ b) `**Extraordinárias**` CM, DGPM, DSM, Titulares de SDP nas suas áreas de jur
 a) de Rotina
 
 `**I) MPI, nos casos de:**`
-
+```
 - Controle Periódico (com ou sem restrições);
 - Engajamento e Reengajamento (com e sem restrições);
 - Ingresso no SMV de militares oriundos do SMI;
@@ -173,9 +173,7 @@ a) de Rotina
 - Cursos de carreira (não relacionados com Atividades Especiais);
 - Operação com Raio-X e Substâncias Radioativas;
 - Manipulação e administração de Terapia Antineoplásica;
-
-**-Seleção e Controle para manuseio do propelente OTTO FUEL II e**
-explosivos;
+- Seleção e Controle para manuseio do propelente OTTO FUEL II e explosivos;
 - Avaliação Inicial e Semestral dos Operadores de Reator Nuclear;
 - Missão no Exterior;
 - Deixar o SMI;
@@ -183,12 +181,9 @@ explosivos;
 - Deixar o SPG;
 - Deixar o SAM ;
 - Controle Anual para serviço em praça de máquinas;
-- Seleção para Estágio de Qualificação Técnica Especial de Operações
-
-Especiais (E-Qtesp-Oesp); e
-- excepcionalmente, IS para Verificação de Deficiências Funcionais (VDF) e
-
-para Concessão de Benefícios, nas localidades onde não exista JS da MB.
+- Seleção para Estágio de Qualificação Técnica Especial de Operações Especiais (E-Qtesp-Oesp); e
+- excepcionalmente, IS para Verificação de Deficiências Funcionais (VDF) e para Concessão de Benefícios, nas localidades onde não exista JS da MB.
+```
 
 II) JRS, em caso de:
 - casos encaminhados por declínio de competência pelos MPI;
