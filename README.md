@@ -100,9 +100,9 @@ A seguir, é demonstrado o quadro sinóptico das doenças graves ou potencialmen
 
 ### DAS DOENÇAS ESPECIFICADAS EM LEI
 
-#### Alienação Mental
+## Alienação Mental
 
-##### 1. Conceituação
+#### 1. Conceituação
 
 1.1. Conceitua-se como alienação mental todo caso de distúrbio mental ou neuromental grave e
 persistente, no qual, esgotados os meios habituais de tratamento, haja alteração completa ou considerável da personalidade, comprometendo gravemente os juízos de valor e realidade, destruindo a autodeterminação e do pragmatismo e tornando o indivíduo total e permanentemente inválido para qualquer trabalho.
@@ -121,19 +121,19 @@ d) ausência de utilidade: a perda da adaptabilidade redunda em prejuízo para o
 1.3. As Juntas de Inspeção de Saúde e os AMP poderão identificar alienação mental no curso de
 qualquer enfermidade psiquiátrica desde que, em seu estágio evolutivo, estejam satisfeitas todas as condições a seguir discriminadas:
 
-a) seja enfermidade mental ou neuromental;
+**a) seja enfermidade mental ou neuromental;**
 
-b) seja grave persistente;
+**b) seja grave persistente;**
 
-c) seja refratária aos meios habituais de tratamento;
+**c) seja refratária aos meios habituais de tratamento;**
 
-d) provoque alteração completa ou considerável da personalidade;
+**d) provoque alteração completa ou considerável da personalidade;**
 
-e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;
+**e) comprometa gravemente os juízos de valor e realidade, com destruição da autodeterminação e do pragmatismo;**
 
-f) torne o indivíduo total e permanentemente inválido para qualquer trabalho; e
+**f) torne o indivíduo total e permanentemente inválido para qualquer trabalho;** e
 
-g) haja um nexo sintomático entre o quadro psíquico e a personalidade do indivíduo.
+**g) haja um nexo sintomático entre o quadro psíquico e a personalidade do indivíduo.**
 
 1.4. São considerados meios habituais de tratamento:
 
@@ -150,17 +150,17 @@ experiência laboratorial.
 
 2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas alíneas "d", "e" e "f" do subitem 1.3:
 
-a) demência;
+**a) demência;**
 
-b) esquizofrenia;
+**b) esquizofrenia;**
 
-c) transtorno delirante persistente; e
+**c) transtorno delirante persistente;** e
 
-d) retardo mental profundo ou grave.
+**d) retardo mental profundo ou grave.**
 
 2.2. São excepcionalmente considerados casos de alienação:
 
-a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral e que satisfizer as três condições a seguir citadas: seja grave, cronificado e resistente ao tratamento;
+**a) transtorno de personalidade e do comportamento devido à doença, lesão ou disfunção cerebral e que satisfizer as três condições a seguir citadas: seja grave, cronificado e resistente ao tratamento;
 
 b) retardo mental moderado e que satisfizer as três condições a seguir citadas: atraso acentuado no desenvolvimento na infância, mínimo grau de independência quanto aos cuidados pessoais e mínimo grau de comunicação social e habilidade acadêmica;
 
@@ -173,7 +173,7 @@ predominância de sintomas de demenciação, resistência terapêutica ou elevad
 
 f) autismo infantil ou atípico; e
 
-g) Síndrome de Rett.
+g) Síndrome de Rett.**
 
 2.3. Não são casos de alienação mental:
 
@@ -242,7 +242,7 @@ h) Transtorno de Personalidade Paranóica, F60.0 CID 10 (Não é caso de Aliena�
 
 3.4. A medida legal superveniente à conclusão das Juntas de Inspeção de Saúde e dos AMP complementará, indispensavelmente, o processo administrativo de reforma (ou aposentadoria) do inspecionando portador de alienação mental.
 
-#### Cardiopatia Grave
+## Cardiopatia Grave
 
 ##### 4. Conceituação
 
