@@ -155,7 +155,7 @@ b) Extraordinárias **São as IS determinadas por Autoridade Judiciária ou aque
 
 a) de Rotina Titulares de OM, exceto a IS para Benefício que é de competência do Diretor do Pessoal da Marinha (DPM), Comandante do Pessoal de Fuzileiros Navais (CPesFN), Serviço de Veteranos e Pensionistas da Marinha (SVPM), Tribunal Marítimo (TM) e Organização Militar de Apoio e Contato (OMAC), conforme couber; e a Inspeção de Saúde Especial (ISE) que é de competência do Comandante da Marinha (CM) e do Diretor-Geral do Pessoal da Marinha (DGPM).
 
-b) Extraordinárias CM, DGPM, DSM, Titulares de SDP nas suas áreas de jurisdição e Autoridade Judiciária.
+b) `Extraordinária`s CM, DGPM, DSM, Titulares de SDP nas suas áreas de jurisdição e Autoridade Judiciária.
 
 **2.1.5.** Competência para Realizar Inspeções de Saúde
 
