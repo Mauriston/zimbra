@@ -150,7 +150,7 @@ experiência laboratorial.
 
 2.1. São necessariamente casos de alienação mental, satisfeitas as condições discriminadas nas alíneas "d", "e" e "f" do subitem 1.3:
 
-#### a) demência;
+### a) demência;
 
 **b) esquizofrenia;**
 
